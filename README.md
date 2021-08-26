@@ -1,7 +1,7 @@
 # anki-dota
 A programmatically generated Anki flashcard deck for Dota items and heroes. 
 
-Dota 2 is an exceptionally hard game to get into. There are over two hundred unique items, over one hundred unique heros, and nuanced game mechanics.
+Dota 2 is an exceptionally hard game to learn. There are over two hundred unique items, over one hundred unique heros, and nuanced game mechanics.
 To make the process of learning the game easier, I created this Anki deck generator. The generator works by scraping data about items and heroes from the Dota 2 wiki,
 mostly in the form of images, and compiles that data into logically structure decks.
 
