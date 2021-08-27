@@ -37,6 +37,24 @@ class Wiki:
     def remove_ads(self):
         self._driver.execute_script("var element = document.getElementsByClassName(\"top-ads-container\")[0].remove();")
 
+    def get_hero_urls(self):
+
+        urls = {}
+
+        # Load webdriver
+        self._driver = webdriver.Firefox()
+        self._driver.set_page_load_timeout(60)
+
+        # At the main wiki page for items
+        self.get_page(self.BASE_URLS['heroes'])
+        soup = self.get_soup()
+
+
+        return urls
+
+    def get_hero_categories(self):
+        pass
+
     """
     Retrieves wiki urls for all items that are currently implemented and
     available in game and returns them as a dictionary of lists with keys
@@ -210,9 +228,9 @@ class Wiki:
                                     transform[0] + transform[2], \
                                     transform[1] + transform[3]))
 
-            icon_crop.save('assets/items/' + id + "_icon.png", 'PNG')
+            icon_crop.save('assets/items/dota_deck_' + id + "_icon.png", 'PNG')
 
-            return 'assets/items/' + id + "_icon.png"
+            return 'dota_deck_' + id + "_icon.png"
 
         return None
 
@@ -234,9 +252,9 @@ class Wiki:
                                     transform[0] + transform[2], \
                                     transform[1] + transform[3]))
 
-            icon_crop.save('assets/items/' + id + "_infobox.png", 'PNG')
+            icon_crop.save('assets/items/dota_deck_' + id + "_infobox.png", 'PNG')
 
-            return 'assets/items/' + id + "_infobox.png"
+            return 'dota_deck_' + id + "_infobox.png"
 
         return None
 
@@ -265,8 +283,8 @@ class Wiki:
                                         transform[0] + transform[2], \
                                         transform[1] + transform[3]))
                 
-                ability_crop.save('assets/items/' + id + "_ability_" + str(counter) +".png", 'PNG')
-                temp['ability_image_path'] = 'assets/items/' + id + "_ability_" + str(counter) +".png"
+                ability_crop.save('assets/items/dota_deck_' + id + "_ability_" + str(counter) +".png", 'PNG')
+                temp['ability_image_path'] = 'dota_deck_' + id + "_ability_" + str(counter) +".png"
 
                 abilities.append(temp)
 

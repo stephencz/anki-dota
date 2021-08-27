@@ -3,113 +3,113 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/iron_branch_ability_1.png",
+                    "ability_image_path": "dota_deck_iron_branch_ability_1.png",
                     "ability_name": "Plant Tree"
                 }
             ],
             "category": "basic_attributes",
-            "icon_path": "assets/items/iron_branch_icon.png",
+            "icon_path": "dota_deck_iron_branch_icon.png",
             "id": "iron_branch",
-            "infobox_path": "assets/items/iron_branch_infobox.png",
+            "infobox_path": "dota_deck_iron_branch_infobox.png",
             "name": "Iron Branch",
             "wiki": "https://dota2.fandom.com/wiki/Iron_Branch"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/gauntlets_of_strength_icon.png",
+            "icon_path": "dota_deck_gauntlets_of_strength_icon.png",
             "id": "gauntlets_of_strength",
-            "infobox_path": "assets/items/gauntlets_of_strength_infobox.png",
+            "infobox_path": "dota_deck_gauntlets_of_strength_infobox.png",
             "name": "Gauntlets of Strength",
             "wiki": "https://dota2.fandom.com/wiki/Gauntlets_of_Strength"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/mantle_of_intelligence_icon.png",
+            "icon_path": "dota_deck_mantle_of_intelligence_icon.png",
             "id": "mantle_of_intelligence",
-            "infobox_path": "assets/items/mantle_of_intelligence_infobox.png",
+            "infobox_path": "dota_deck_mantle_of_intelligence_infobox.png",
             "name": "Mantle of Intelligence",
             "wiki": "https://dota2.fandom.com/wiki/Mantle_of_Intelligence"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/slippers_of_agility_icon.png",
+            "icon_path": "dota_deck_slippers_of_agility_icon.png",
             "id": "slippers_of_agility",
-            "infobox_path": "assets/items/slippers_of_agility_infobox.png",
+            "infobox_path": "dota_deck_slippers_of_agility_infobox.png",
             "name": "Slippers of Agility",
             "wiki": "https://dota2.fandom.com/wiki/Slippers_of_Agility"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/circlet_icon.png",
+            "icon_path": "dota_deck_circlet_icon.png",
             "id": "circlet",
-            "infobox_path": "assets/items/circlet_infobox.png",
+            "infobox_path": "dota_deck_circlet_infobox.png",
             "name": "Circlet",
             "wiki": "https://dota2.fandom.com/wiki/Circlet"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/band_of_elvenskin_icon.png",
+            "icon_path": "dota_deck_band_of_elvenskin_icon.png",
             "id": "band_of_elvenskin",
-            "infobox_path": "assets/items/band_of_elvenskin_infobox.png",
+            "infobox_path": "dota_deck_band_of_elvenskin_infobox.png",
             "name": "Band of Elvenskin",
             "wiki": "https://dota2.fandom.com/wiki/Band_of_Elvenskin"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/belt_of_strength_icon.png",
+            "icon_path": "dota_deck_belt_of_strength_icon.png",
             "id": "belt_of_strength",
-            "infobox_path": "assets/items/belt_of_strength_infobox.png",
+            "infobox_path": "dota_deck_belt_of_strength_infobox.png",
             "name": "Belt of Strength",
             "wiki": "https://dota2.fandom.com/wiki/Belt_of_Strength"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/crown_icon.png",
+            "icon_path": "dota_deck_crown_icon.png",
             "id": "crown",
-            "infobox_path": "assets/items/crown_infobox.png",
+            "infobox_path": "dota_deck_crown_infobox.png",
             "name": "Crown",
             "wiki": "https://dota2.fandom.com/wiki/Crown"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/robe_of_the_magi_icon.png",
+            "icon_path": "dota_deck_robe_of_the_magi_icon.png",
             "id": "robe_of_the_magi",
-            "infobox_path": "assets/items/robe_of_the_magi_infobox.png",
+            "infobox_path": "dota_deck_robe_of_the_magi_infobox.png",
             "name": "Robe of the Magi",
             "wiki": "https://dota2.fandom.com/wiki/Robe_of_the_Magi"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/blade_of_alacrity_icon.png",
+            "icon_path": "dota_deck_blade_of_alacrity_icon.png",
             "id": "blade_of_alacrity",
-            "infobox_path": "assets/items/blade_of_alacrity_infobox.png",
+            "infobox_path": "dota_deck_blade_of_alacrity_infobox.png",
             "name": "Blade of Alacrity",
             "wiki": "https://dota2.fandom.com/wiki/Blade_of_Alacrity"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/ogre_axe_icon.png",
+            "icon_path": "dota_deck_ogre_axe_icon.png",
             "id": "ogre_axe",
-            "infobox_path": "assets/items/ogre_axe_infobox.png",
+            "infobox_path": "dota_deck_ogre_axe_infobox.png",
             "name": "Ogre Axe",
             "wiki": "https://dota2.fandom.com/wiki/Ogre_Axe"
         },
         {
             "abilities": [],
             "category": "basic_attributes",
-            "icon_path": "assets/items/staff_of_wizardry_icon.png",
+            "icon_path": "dota_deck_staff_of_wizardry_icon.png",
             "id": "staff_of_wizardry",
-            "infobox_path": "assets/items/staff_of_wizardry_infobox.png",
+            "infobox_path": "dota_deck_staff_of_wizardry_infobox.png",
             "name": "Staff of Wizardry",
             "wiki": "https://dota2.fandom.com/wiki/Staff_of_Wizardry"
         }
@@ -118,198 +118,198 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/observer_ward_ability_1.png",
+                    "ability_image_path": "dota_deck_observer_ward_ability_1.png",
                     "ability_name": "Plant"
                 },
                 {
-                    "ability_image_path": "assets/items/observer_ward_ability_2.png",
+                    "ability_image_path": "dota_deck_observer_ward_ability_2.png",
                     "ability_name": "Invisibility"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/observer_ward_icon.png",
+            "icon_path": "dota_deck_observer_ward_icon.png",
             "id": "observer_ward",
-            "infobox_path": "assets/items/observer_ward_infobox.png",
+            "infobox_path": "dota_deck_observer_ward_infobox.png",
             "name": "Observer Ward",
             "wiki": "https://dota2.fandom.com/wiki/Observer_Ward"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/clarity_ability_1.png",
+                    "ability_image_path": "dota_deck_clarity_ability_1.png",
                     "ability_name": "Replenish"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/clarity_icon.png",
+            "icon_path": "dota_deck_clarity_icon.png",
             "id": "clarity",
-            "infobox_path": "assets/items/clarity_infobox.png",
+            "infobox_path": "dota_deck_clarity_infobox.png",
             "name": "Clarity",
             "wiki": "https://dota2.fandom.com/wiki/Clarity"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/sentry_ward_ability_1.png",
+                    "ability_image_path": "dota_deck_sentry_ward_ability_1.png",
                     "ability_name": "Plant"
                 },
                 {
-                    "ability_image_path": "assets/items/sentry_ward_ability_2.png",
+                    "ability_image_path": "dota_deck_sentry_ward_ability_2.png",
                     "ability_name": "True Sight"
                 },
                 {
-                    "ability_image_path": "assets/items/sentry_ward_ability_3.png",
+                    "ability_image_path": "dota_deck_sentry_ward_ability_3.png",
                     "ability_name": "Invisibility"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/sentry_ward_icon.png",
+            "icon_path": "dota_deck_sentry_ward_icon.png",
             "id": "sentry_ward",
-            "infobox_path": "assets/items/sentry_ward_infobox.png",
+            "infobox_path": "dota_deck_sentry_ward_infobox.png",
             "name": "Sentry Ward",
             "wiki": "https://dota2.fandom.com/wiki/Sentry_Ward"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/smoke_of_deceit_ability_1.png",
+                    "ability_image_path": "dota_deck_smoke_of_deceit_ability_1.png",
                     "ability_name": "Disguise"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/smoke_of_deceit_icon.png",
+            "icon_path": "dota_deck_smoke_of_deceit_icon.png",
             "id": "smoke_of_deceit",
-            "infobox_path": "assets/items/smoke_of_deceit_infobox.png",
+            "infobox_path": "dota_deck_smoke_of_deceit_infobox.png",
             "name": "Smoke of Deceit",
             "wiki": "https://dota2.fandom.com/wiki/Smoke_of_Deceit"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/enchanted_mango_ability_1.png",
+                    "ability_image_path": "dota_deck_enchanted_mango_ability_1.png",
                     "ability_name": "Eat Mango"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/enchanted_mango_icon.png",
+            "icon_path": "dota_deck_enchanted_mango_icon.png",
             "id": "enchanted_mango",
-            "infobox_path": "assets/items/enchanted_mango_infobox.png",
+            "infobox_path": "dota_deck_enchanted_mango_infobox.png",
             "name": "Enchanted Mango",
             "wiki": "https://dota2.fandom.com/wiki/Enchanted_Mango"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/faerie_fire_ability_1.png",
+                    "ability_image_path": "dota_deck_faerie_fire_ability_1.png",
                     "ability_name": "Imbue"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/faerie_fire_icon.png",
+            "icon_path": "dota_deck_faerie_fire_icon.png",
             "id": "faerie_fire",
-            "infobox_path": "assets/items/faerie_fire_infobox.png",
+            "infobox_path": "dota_deck_faerie_fire_infobox.png",
             "name": "Faerie Fire",
             "wiki": "https://dota2.fandom.com/wiki/Faerie_Fire"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/tome_of_knowledge_ability_1.png",
+                    "ability_image_path": "dota_deck_tome_of_knowledge_ability_1.png",
                     "ability_name": "Enlighten"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/tome_of_knowledge_icon.png",
+            "icon_path": "dota_deck_tome_of_knowledge_icon.png",
             "id": "tome_of_knowledge",
-            "infobox_path": "assets/items/tome_of_knowledge_infobox.png",
+            "infobox_path": "dota_deck_tome_of_knowledge_infobox.png",
             "name": "Tome of Knowledge",
             "wiki": "https://dota2.fandom.com/wiki/Tome_of_Knowledge"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/dust_of_appearance_ability_1.png",
+                    "ability_image_path": "dota_deck_dust_of_appearance_ability_1.png",
                     "ability_name": "Reveal"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/dust_of_appearance_icon.png",
+            "icon_path": "dota_deck_dust_of_appearance_icon.png",
             "id": "dust_of_appearance",
-            "infobox_path": "assets/items/dust_of_appearance_infobox.png",
+            "infobox_path": "dota_deck_dust_of_appearance_infobox.png",
             "name": "Dust of Appearance",
             "wiki": "https://dota2.fandom.com/wiki/Dust_of_Appearance"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/tango_ability_1.png",
+                    "ability_image_path": "dota_deck_tango_ability_1.png",
                     "ability_name": "Devour"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/tango_icon.png",
+            "icon_path": "dota_deck_tango_icon.png",
             "id": "tango",
-            "infobox_path": "assets/items/tango_infobox.png",
+            "infobox_path": "dota_deck_tango_infobox.png",
             "name": "Tango",
             "wiki": "https://dota2.fandom.com/wiki/Tango"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/town_portal_scroll_ability_1.png",
+                    "ability_image_path": "dota_deck_town_portal_scroll_ability_1.png",
                     "ability_name": "Teleport"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/town_portal_scroll_icon.png",
+            "icon_path": "dota_deck_town_portal_scroll_icon.png",
             "id": "town_portal_scroll",
-            "infobox_path": "assets/items/town_portal_scroll_infobox.png",
+            "infobox_path": "dota_deck_town_portal_scroll_infobox.png",
             "name": "Town Portal Scroll",
             "wiki": "https://dota2.fandom.com/wiki/Town_Portal_Scroll"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/healing_salve_ability_1.png",
+                    "ability_image_path": "dota_deck_healing_salve_ability_1.png",
                     "ability_name": "Salve"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/healing_salve_icon.png",
+            "icon_path": "dota_deck_healing_salve_icon.png",
             "id": "healing_salve",
-            "infobox_path": "assets/items/healing_salve_infobox.png",
+            "infobox_path": "dota_deck_healing_salve_infobox.png",
             "name": "Healing Salve",
             "wiki": "https://dota2.fandom.com/wiki/Healing_Salve"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/bottle_ability_1.png",
+                    "ability_image_path": "dota_deck_bottle_ability_1.png",
                     "ability_name": "Regenerate"
                 },
                 {
-                    "ability_image_path": "assets/items/bottle_ability_2.png",
+                    "ability_image_path": "dota_deck_bottle_ability_2.png",
                     "ability_name": "Store Rune"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/bottle_icon.png",
+            "icon_path": "dota_deck_bottle_icon.png",
             "id": "bottle",
-            "infobox_path": "assets/items/bottle_infobox.png",
+            "infobox_path": "dota_deck_bottle_infobox.png",
             "name": "Bottle",
             "wiki": "https://dota2.fandom.com/wiki/Bottle"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aghanims_shard_ability_1.png",
+                    "ability_image_path": "dota_deck_aghanims_shard_ability_1.png",
                     "ability_name": "Ability Upgrade"
                 }
             ],
             "category": "basic_consumables",
-            "icon_path": "assets/items/aghanims_shard_icon.png",
+            "icon_path": "dota_deck_aghanims_shard_icon.png",
             "id": "aghanims_shard",
-            "infobox_path": "assets/items/aghanims_shard_infobox.png",
+            "infobox_path": "dota_deck_aghanims_shard_infobox.png",
             "name": "Aghanims Shard",
             "wiki": "https://dota2.fandom.com/wiki/Aghanim%27s_Shard"
         }
@@ -318,164 +318,164 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/quelling_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_quelling_blade_ability_1.png",
                     "ability_name": "Chop Tree"
                 },
                 {
-                    "ability_image_path": "assets/items/quelling_blade_ability_2.png",
+                    "ability_image_path": "dota_deck_quelling_blade_ability_2.png",
                     "ability_name": "Quell"
                 }
             ],
             "category": "basic_equipment",
-            "icon_path": "assets/items/quelling_blade_icon.png",
+            "icon_path": "dota_deck_quelling_blade_icon.png",
             "id": "quelling_blade",
-            "infobox_path": "assets/items/quelling_blade_infobox.png",
+            "infobox_path": "dota_deck_quelling_blade_infobox.png",
             "name": "Quelling Blade",
             "wiki": "https://dota2.fandom.com/wiki/Quelling_Blade"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/ring_of_protection_icon.png",
+            "icon_path": "dota_deck_ring_of_protection_icon.png",
             "id": "ring_of_protection",
-            "infobox_path": "assets/items/ring_of_protection_infobox.png",
+            "infobox_path": "dota_deck_ring_of_protection_infobox.png",
             "name": "Ring of Protection",
             "wiki": "https://dota2.fandom.com/wiki/Ring_of_Protection"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/infused_raindrops_ability_1.png",
+                    "ability_image_path": "dota_deck_infused_raindrops_ability_1.png",
                     "ability_name": "Magical Damage Block"
                 }
             ],
             "category": "basic_equipment",
-            "icon_path": "assets/items/infused_raindrops_icon.png",
+            "icon_path": "dota_deck_infused_raindrops_icon.png",
             "id": "infused_raindrops",
-            "infobox_path": "assets/items/infused_raindrops_infobox.png",
+            "infobox_path": "dota_deck_infused_raindrops_infobox.png",
             "name": "Infused Raindrops",
             "wiki": "https://dota2.fandom.com/wiki/Infused_Raindrops"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/orb_of_venom_ability_1.png",
+                    "ability_image_path": "dota_deck_orb_of_venom_ability_1.png",
                     "ability_name": "Poison Attack"
                 }
             ],
             "category": "basic_equipment",
-            "icon_path": "assets/items/orb_of_venom_icon.png",
+            "icon_path": "dota_deck_orb_of_venom_icon.png",
             "id": "orb_of_venom",
-            "infobox_path": "assets/items/orb_of_venom_infobox.png",
+            "infobox_path": "dota_deck_orb_of_venom_infobox.png",
             "name": "Orb of Venom",
             "wiki": "https://dota2.fandom.com/wiki/Orb_of_Venom"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/blight_stone_ability_1.png",
+                    "ability_image_path": "dota_deck_blight_stone_ability_1.png",
                     "ability_name": "Lesser Corruption"
                 }
             ],
             "category": "basic_equipment",
-            "icon_path": "assets/items/blight_stone_icon.png",
+            "icon_path": "dota_deck_blight_stone_icon.png",
             "id": "blight_stone",
-            "infobox_path": "assets/items/blight_stone_infobox.png",
+            "infobox_path": "dota_deck_blight_stone_infobox.png",
             "name": "Blight Stone",
             "wiki": "https://dota2.fandom.com/wiki/Blight_Stone"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/blades_of_attack_icon.png",
+            "icon_path": "dota_deck_blades_of_attack_icon.png",
             "id": "blades_of_attack",
-            "infobox_path": "assets/items/blades_of_attack_infobox.png",
+            "infobox_path": "dota_deck_blades_of_attack_infobox.png",
             "name": "Blades of Attack",
             "wiki": "https://dota2.fandom.com/wiki/Blades_of_Attack"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/gloves_of_haste_icon.png",
+            "icon_path": "dota_deck_gloves_of_haste_icon.png",
             "id": "gloves_of_haste",
-            "infobox_path": "assets/items/gloves_of_haste_infobox.png",
+            "infobox_path": "dota_deck_gloves_of_haste_infobox.png",
             "name": "Gloves of Haste",
             "wiki": "https://dota2.fandom.com/wiki/Gloves_of_Haste"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/chainmail_icon.png",
+            "icon_path": "dota_deck_chainmail_icon.png",
             "id": "chainmail",
-            "infobox_path": "assets/items/chainmail_infobox.png",
+            "infobox_path": "dota_deck_chainmail_infobox.png",
             "name": "Chainmail",
             "wiki": "https://dota2.fandom.com/wiki/Chainmail"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/quarterstaff_icon.png",
+            "icon_path": "dota_deck_quarterstaff_icon.png",
             "id": "quarterstaff",
-            "infobox_path": "assets/items/quarterstaff_infobox.png",
+            "infobox_path": "dota_deck_quarterstaff_infobox.png",
             "name": "Quarterstaff",
             "wiki": "https://dota2.fandom.com/wiki/Quarterstaff"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/helm_of_iron_will_icon.png",
+            "icon_path": "dota_deck_helm_of_iron_will_icon.png",
             "id": "helm_of_iron_will",
-            "infobox_path": "assets/items/helm_of_iron_will_infobox.png",
+            "infobox_path": "dota_deck_helm_of_iron_will_infobox.png",
             "name": "Helm of Iron Will",
             "wiki": "https://dota2.fandom.com/wiki/Helm_of_Iron_Will"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/blitz_knuckles_icon.png",
+            "icon_path": "dota_deck_blitz_knuckles_icon.png",
             "id": "blitz_knuckles",
-            "infobox_path": "assets/items/blitz_knuckles_infobox.png",
+            "infobox_path": "dota_deck_blitz_knuckles_infobox.png",
             "name": "Blitz Knuckles",
             "wiki": "https://dota2.fandom.com/wiki/Blitz_Knuckles"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/broadsword_icon.png",
+            "icon_path": "dota_deck_broadsword_icon.png",
             "id": "broadsword",
-            "infobox_path": "assets/items/broadsword_infobox.png",
+            "infobox_path": "dota_deck_broadsword_infobox.png",
             "name": "Broadsword",
             "wiki": "https://dota2.fandom.com/wiki/Broadsword"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/javelin_ability_1.png",
+                    "ability_image_path": "dota_deck_javelin_ability_1.png",
                     "ability_name": "Pierce"
                 }
             ],
             "category": "basic_equipment",
-            "icon_path": "assets/items/javelin_icon.png",
+            "icon_path": "dota_deck_javelin_icon.png",
             "id": "javelin",
-            "infobox_path": "assets/items/javelin_infobox.png",
+            "infobox_path": "dota_deck_javelin_infobox.png",
             "name": "Javelin",
             "wiki": "https://dota2.fandom.com/wiki/Javelin"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/claymore_icon.png",
+            "icon_path": "dota_deck_claymore_icon.png",
             "id": "claymore",
-            "infobox_path": "assets/items/claymore_infobox.png",
+            "infobox_path": "dota_deck_claymore_infobox.png",
             "name": "Claymore",
             "wiki": "https://dota2.fandom.com/wiki/Claymore"
         },
         {
             "abilities": [],
             "category": "basic_equipment",
-            "icon_path": "assets/items/mithril_hammer_icon.png",
+            "icon_path": "dota_deck_mithril_hammer_icon.png",
             "id": "mithril_hammer",
-            "infobox_path": "assets/items/mithril_hammer_infobox.png",
+            "infobox_path": "dota_deck_mithril_hammer_infobox.png",
             "name": "Mithril Hammer",
             "wiki": "https://dota2.fandom.com/wiki/Mithril_Hammer"
         }
@@ -484,152 +484,152 @@
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/ring_of_regen_icon.png",
+            "icon_path": "dota_deck_ring_of_regen_icon.png",
             "id": "ring_of_regen",
-            "infobox_path": "assets/items/ring_of_regen_infobox.png",
+            "infobox_path": "dota_deck_ring_of_regen_infobox.png",
             "name": "Ring of Regen",
             "wiki": "https://dota2.fandom.com/wiki/Ring_of_Regen"
         },
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/sages_mask_icon.png",
+            "icon_path": "dota_deck_sages_mask_icon.png",
             "id": "sages_mask",
-            "infobox_path": "assets/items/sages_mask_infobox.png",
+            "infobox_path": "dota_deck_sages_mask_infobox.png",
             "name": "Sages Mask",
             "wiki": "https://dota2.fandom.com/wiki/Sage%27s_Mask"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/magic_stick_ability_1.png",
+                    "ability_image_path": "dota_deck_magic_stick_ability_1.png",
                     "ability_name": "Energy Charge"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/magic_stick_icon.png",
+            "icon_path": "dota_deck_magic_stick_icon.png",
             "id": "magic_stick",
-            "infobox_path": "assets/items/magic_stick_infobox.png",
+            "infobox_path": "dota_deck_magic_stick_infobox.png",
             "name": "Magic Stick",
             "wiki": "https://dota2.fandom.com/wiki/Magic_Stick"
         },
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/fluffy_hat_icon.png",
+            "icon_path": "dota_deck_fluffy_hat_icon.png",
             "id": "fluffy_hat",
-            "infobox_path": "assets/items/fluffy_hat_infobox.png",
+            "infobox_path": "dota_deck_fluffy_hat_infobox.png",
             "name": "Fluffy Hat",
             "wiki": "https://dota2.fandom.com/wiki/Fluffy_Hat"
         },
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/wind_lace_icon.png",
+            "icon_path": "dota_deck_wind_lace_icon.png",
             "id": "wind_lace",
-            "infobox_path": "assets/items/wind_lace_infobox.png",
+            "infobox_path": "dota_deck_wind_lace_infobox.png",
             "name": "Wind Lace",
             "wiki": "https://dota2.fandom.com/wiki/Wind_Lace"
         },
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/boots_of_speed_icon.png",
+            "icon_path": "dota_deck_boots_of_speed_icon.png",
             "id": "boots_of_speed",
-            "infobox_path": "assets/items/boots_of_speed_infobox.png",
+            "infobox_path": "dota_deck_boots_of_speed_infobox.png",
             "name": "Boots of Speed",
             "wiki": "https://dota2.fandom.com/wiki/Boots_of_Speed"
         },
         {
             "abilities": [],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/cloak_icon.png",
+            "icon_path": "dota_deck_cloak_icon.png",
             "id": "cloak",
-            "infobox_path": "assets/items/cloak_infobox.png",
+            "infobox_path": "dota_deck_cloak_infobox.png",
             "name": "Cloak",
             "wiki": "https://dota2.fandom.com/wiki/Cloak"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/voodoo_mask_ability_1.png",
+                    "ability_image_path": "dota_deck_voodoo_mask_ability_1.png",
                     "ability_name": "Spell Lifesteal"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/voodoo_mask_icon.png",
+            "icon_path": "dota_deck_voodoo_mask_icon.png",
             "id": "voodoo_mask",
-            "infobox_path": "assets/items/voodoo_mask_infobox.png",
+            "infobox_path": "dota_deck_voodoo_mask_infobox.png",
             "name": "Voodoo Mask",
             "wiki": "https://dota2.fandom.com/wiki/Voodoo_Mask"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/gem_of_true_sight_ability_1.png",
+                    "ability_image_path": "dota_deck_gem_of_true_sight_ability_1.png",
                     "ability_name": "True Sight"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/gem_of_true_sight_icon.png",
+            "icon_path": "dota_deck_gem_of_true_sight_icon.png",
             "id": "gem_of_true_sight",
-            "infobox_path": "assets/items/gem_of_true_sight_infobox.png",
+            "infobox_path": "dota_deck_gem_of_true_sight_infobox.png",
             "name": "Gem of True Sight",
             "wiki": "https://dota2.fandom.com/wiki/Gem_of_True_Sight"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/morbid_mask_ability_1.png",
+                    "ability_image_path": "dota_deck_morbid_mask_ability_1.png",
                     "ability_name": "Lifesteal"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/morbid_mask_icon.png",
+            "icon_path": "dota_deck_morbid_mask_icon.png",
             "id": "morbid_mask",
-            "infobox_path": "assets/items/morbid_mask_infobox.png",
+            "infobox_path": "dota_deck_morbid_mask_infobox.png",
             "name": "Morbid Mask",
             "wiki": "https://dota2.fandom.com/wiki/Morbid_Mask"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/shadow_amulet_ability_1.png",
+                    "ability_image_path": "dota_deck_shadow_amulet_ability_1.png",
                     "ability_name": "Fade"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/shadow_amulet_icon.png",
+            "icon_path": "dota_deck_shadow_amulet_icon.png",
             "id": "shadow_amulet",
-            "infobox_path": "assets/items/shadow_amulet_infobox.png",
+            "infobox_path": "dota_deck_shadow_amulet_infobox.png",
             "name": "Shadow Amulet",
             "wiki": "https://dota2.fandom.com/wiki/Shadow_Amulet"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ghost_scepter_ability_1.png",
+                    "ability_image_path": "dota_deck_ghost_scepter_ability_1.png",
                     "ability_name": "Ghost Form"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/ghost_scepter_icon.png",
+            "icon_path": "dota_deck_ghost_scepter_icon.png",
             "id": "ghost_scepter",
-            "infobox_path": "assets/items/ghost_scepter_infobox.png",
+            "infobox_path": "dota_deck_ghost_scepter_infobox.png",
             "name": "Ghost Scepter",
             "wiki": "https://dota2.fandom.com/wiki/Ghost_Scepter"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/blink_dagger_ability_1.png",
+                    "ability_image_path": "dota_deck_blink_dagger_ability_1.png",
                     "ability_name": "Blink"
                 }
             ],
             "category": "basic_miscellaneous",
-            "icon_path": "assets/items/blink_dagger_icon.png",
+            "icon_path": "dota_deck_blink_dagger_icon.png",
             "id": "blink_dagger",
-            "infobox_path": "assets/items/blink_dagger_infobox.png",
+            "infobox_path": "dota_deck_blink_dagger_infobox.png",
             "name": "Blink Dagger",
             "wiki": "https://dota2.fandom.com/wiki/Blink_Dagger"
         }
@@ -638,126 +638,126 @@
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/energy_booster_icon.png",
+            "icon_path": "dota_deck_energy_booster_icon.png",
             "id": "energy_booster",
-            "infobox_path": "assets/items/energy_booster_infobox.png",
+            "infobox_path": "dota_deck_energy_booster_infobox.png",
             "name": "Energy Booster",
             "wiki": "https://dota2.fandom.com/wiki/Energy_Booster"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/ring_of_health_icon.png",
+            "icon_path": "dota_deck_ring_of_health_icon.png",
             "id": "ring_of_health",
-            "infobox_path": "assets/items/ring_of_health_infobox.png",
+            "infobox_path": "dota_deck_ring_of_health_infobox.png",
             "name": "Ring of Health",
             "wiki": "https://dota2.fandom.com/wiki/Ring_of_Health"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/void_stone_icon.png",
+            "icon_path": "dota_deck_void_stone_icon.png",
             "id": "void_stone",
-            "infobox_path": "assets/items/void_stone_infobox.png",
+            "infobox_path": "dota_deck_void_stone_infobox.png",
             "name": "Void Stone",
             "wiki": "https://dota2.fandom.com/wiki/Void_Stone"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/vitality_booster_icon.png",
+            "icon_path": "dota_deck_vitality_booster_icon.png",
             "id": "vitality_booster",
-            "infobox_path": "assets/items/vitality_booster_infobox.png",
+            "infobox_path": "dota_deck_vitality_booster_infobox.png",
             "name": "Vitality Booster",
             "wiki": "https://dota2.fandom.com/wiki/Vitality_Booster"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/point_booster_icon.png",
+            "icon_path": "dota_deck_point_booster_icon.png",
             "id": "point_booster",
-            "infobox_path": "assets/items/point_booster_infobox.png",
+            "infobox_path": "dota_deck_point_booster_infobox.png",
             "name": "Point Booster",
             "wiki": "https://dota2.fandom.com/wiki/Point_Booster"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/talisman_of_evasion_icon.png",
+            "icon_path": "dota_deck_talisman_of_evasion_icon.png",
             "id": "talisman_of_evasion",
-            "infobox_path": "assets/items/talisman_of_evasion_infobox.png",
+            "infobox_path": "dota_deck_talisman_of_evasion_infobox.png",
             "name": "Talisman of Evasion",
             "wiki": "https://dota2.fandom.com/wiki/Talisman_of_Evasion"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/platemail_icon.png",
+            "icon_path": "dota_deck_platemail_icon.png",
             "id": "platemail",
-            "infobox_path": "assets/items/platemail_infobox.png",
+            "infobox_path": "dota_deck_platemail_infobox.png",
             "name": "Platemail",
             "wiki": "https://dota2.fandom.com/wiki/Platemail"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/hyperstone_icon.png",
+            "icon_path": "dota_deck_hyperstone_icon.png",
             "id": "hyperstone",
-            "infobox_path": "assets/items/hyperstone_infobox.png",
+            "infobox_path": "dota_deck_hyperstone_infobox.png",
             "name": "Hyperstone",
             "wiki": "https://dota2.fandom.com/wiki/Hyperstone"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/ultimate_orb_icon.png",
+            "icon_path": "dota_deck_ultimate_orb_icon.png",
             "id": "ultimate_orb",
-            "infobox_path": "assets/items/ultimate_orb_infobox.png",
+            "infobox_path": "dota_deck_ultimate_orb_infobox.png",
             "name": "Ultimate Orb",
             "wiki": "https://dota2.fandom.com/wiki/Ultimate_Orb"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/demon_edge_icon.png",
+            "icon_path": "dota_deck_demon_edge_icon.png",
             "id": "demon_edge",
-            "infobox_path": "assets/items/demon_edge_infobox.png",
+            "infobox_path": "dota_deck_demon_edge_infobox.png",
             "name": "Demon Edge",
             "wiki": "https://dota2.fandom.com/wiki/Demon_Edge"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/eaglesong_icon.png",
+            "icon_path": "dota_deck_eaglesong_icon.png",
             "id": "eaglesong",
-            "infobox_path": "assets/items/eaglesong_infobox.png",
+            "infobox_path": "dota_deck_eaglesong_infobox.png",
             "name": "Eaglesong",
             "wiki": "https://dota2.fandom.com/wiki/Eaglesong"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/mystic_staff_icon.png",
+            "icon_path": "dota_deck_mystic_staff_icon.png",
             "id": "mystic_staff",
-            "infobox_path": "assets/items/mystic_staff_infobox.png",
+            "infobox_path": "dota_deck_mystic_staff_infobox.png",
             "name": "Mystic Staff",
             "wiki": "https://dota2.fandom.com/wiki/Mystic_Staff"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/reaver_icon.png",
+            "icon_path": "dota_deck_reaver_icon.png",
             "id": "reaver",
-            "infobox_path": "assets/items/reaver_infobox.png",
+            "infobox_path": "dota_deck_reaver_infobox.png",
             "name": "Reaver",
             "wiki": "https://dota2.fandom.com/wiki/Reaver"
         },
         {
             "abilities": [],
             "category": "basic_secret",
-            "icon_path": "assets/items/sacred_relic_icon.png",
+            "icon_path": "dota_deck_sacred_relic_icon.png",
             "id": "sacred_relic",
-            "infobox_path": "assets/items/sacred_relic_infobox.png",
+            "infobox_path": "dota_deck_sacred_relic_infobox.png",
             "name": "Sacred Relic",
             "wiki": "https://dota2.fandom.com/wiki/Sacred_Relic"
         }
@@ -766,125 +766,125 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/arcane_ring_ability_1.png",
+                    "ability_image_path": "dota_deck_arcane_ring_ability_1.png",
                     "ability_name": "Replenish Mana"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/arcane_ring_icon.png",
+            "icon_path": "dota_deck_arcane_ring_icon.png",
             "id": "arcane_ring",
-            "infobox_path": "assets/items/arcane_ring_infobox.png",
+            "infobox_path": "dota_deck_arcane_ring_infobox.png",
             "name": "Arcane Ring",
             "wiki": "https://dota2.fandom.com/wiki/Arcane_Ring"
         },
         {
             "abilities": [],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/broom_handle_icon.png",
+            "icon_path": "dota_deck_broom_handle_icon.png",
             "id": "broom_handle",
-            "infobox_path": "assets/items/broom_handle_infobox.png",
+            "infobox_path": "dota_deck_broom_handle_infobox.png",
             "name": "Broom Handle",
             "wiki": "https://dota2.fandom.com/wiki/Broom_Handle"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/chipped_vest_ability_1.png",
+                    "ability_image_path": "dota_deck_chipped_vest_ability_1.png",
                     "ability_name": "Passive"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/chipped_vest_icon.png",
+            "icon_path": "dota_deck_chipped_vest_icon.png",
             "id": "chipped_vest",
-            "infobox_path": "assets/items/chipped_vest_infobox.png",
+            "infobox_path": "dota_deck_chipped_vest_infobox.png",
             "name": "Chipped Vest",
             "wiki": "https://dota2.fandom.com/wiki/Chipped_Vest"
         },
         {
             "abilities": [],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/fairys_trinket_icon.png",
+            "icon_path": "dota_deck_fairys_trinket_icon.png",
             "id": "fairys_trinket",
-            "infobox_path": "assets/items/fairys_trinket_infobox.png",
+            "infobox_path": "dota_deck_fairys_trinket_infobox.png",
             "name": "Fairys Trinket",
             "wiki": "https://dota2.fandom.com/wiki/Fairy%27s_Trinket"
         },
         {
             "abilities": [],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/keen_optic_icon.png",
+            "icon_path": "dota_deck_keen_optic_icon.png",
             "id": "keen_optic",
-            "infobox_path": "assets/items/keen_optic_infobox.png",
+            "infobox_path": "dota_deck_keen_optic_infobox.png",
             "name": "Keen Optic",
             "wiki": "https://dota2.fandom.com/wiki/Keen_Optic"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ocean_heart_ability_1.png",
+                    "ability_image_path": "dota_deck_ocean_heart_ability_1.png",
                     "ability_name": "Water Regen"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/ocean_heart_icon.png",
+            "icon_path": "dota_deck_ocean_heart_icon.png",
             "id": "ocean_heart",
-            "infobox_path": "assets/items/ocean_heart_infobox.png",
+            "infobox_path": "dota_deck_ocean_heart_infobox.png",
             "name": "Ocean Heart",
             "wiki": "https://dota2.fandom.com/wiki/Ocean_Heart"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/pig_pole_ability_1.png",
+                    "ability_image_path": "dota_deck_pig_pole_ability_1.png",
                     "ability_name": "Pig, Out!"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/pig_pole_icon.png",
+            "icon_path": "dota_deck_pig_pole_icon.png",
             "id": "pig_pole",
-            "infobox_path": "assets/items/pig_pole_infobox.png",
+            "infobox_path": "dota_deck_pig_pole_infobox.png",
             "name": "Pig Pole",
             "wiki": "https://dota2.fandom.com/wiki/Pig_Pole"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/possessed_mask_ability_1.png",
+                    "ability_image_path": "dota_deck_possessed_mask_ability_1.png",
                     "ability_name": "Lifesteal"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/possessed_mask_icon.png",
+            "icon_path": "dota_deck_possessed_mask_icon.png",
             "id": "possessed_mask",
-            "infobox_path": "assets/items/possessed_mask_infobox.png",
+            "infobox_path": "dota_deck_possessed_mask_infobox.png",
             "name": "Possessed Mask",
             "wiki": "https://dota2.fandom.com/wiki/Possessed_Mask"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/trusty_shovel_ability_1.png",
+                    "ability_image_path": "dota_deck_trusty_shovel_ability_1.png",
                     "ability_name": "Dig"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/trusty_shovel_icon.png",
+            "icon_path": "dota_deck_trusty_shovel_icon.png",
             "id": "trusty_shovel",
-            "infobox_path": "assets/items/trusty_shovel_infobox.png",
+            "infobox_path": "dota_deck_trusty_shovel_infobox.png",
             "name": "Trusty Shovel",
             "wiki": "https://dota2.fandom.com/wiki/Trusty_Shovel"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/tumblers_toy_ability_1.png",
+                    "ability_image_path": "dota_deck_tumblers_toy_ability_1.png",
                     "ability_name": "Vault"
                 }
             ],
             "category": "neutral_tier_1",
-            "icon_path": "assets/items/tumblers_toy_icon.png",
+            "icon_path": "dota_deck_tumblers_toy_icon.png",
             "id": "tumblers_toy",
-            "infobox_path": "assets/items/tumblers_toy_infobox.png",
+            "infobox_path": "dota_deck_tumblers_toy_infobox.png",
             "name": "Tumblers Toy",
             "wiki": "https://dota2.fandom.com/wiki/Tumbler%27s_Toy"
         }
@@ -893,153 +893,153 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/brigands_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_brigands_blade_ability_1.png",
                     "ability_name": "Dark Mercy"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/brigands_blade_icon.png",
+            "icon_path": "dota_deck_brigands_blade_icon.png",
             "id": "brigands_blade",
-            "infobox_path": "assets/items/brigands_blade_infobox.png",
+            "infobox_path": "dota_deck_brigands_blade_infobox.png",
             "name": "Brigands Blade",
             "wiki": "https://dota2.fandom.com/wiki/Brigand%27s_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/bullwhip_ability_1.png",
+                    "ability_image_path": "dota_deck_bullwhip_ability_1.png",
                     "ability_name": "Whip"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/bullwhip_icon.png",
+            "icon_path": "dota_deck_bullwhip_icon.png",
             "id": "bullwhip",
-            "infobox_path": "assets/items/bullwhip_infobox.png",
+            "infobox_path": "dota_deck_bullwhip_infobox.png",
             "name": "Bullwhip",
             "wiki": "https://dota2.fandom.com/wiki/Bullwhip"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/dragon_scale_ability_1.png",
+                    "ability_image_path": "dota_deck_dragon_scale_ability_1.png",
                     "ability_name": "Afterburn"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/dragon_scale_icon.png",
+            "icon_path": "dota_deck_dragon_scale_icon.png",
             "id": "dragon_scale",
-            "infobox_path": "assets/items/dragon_scale_infobox.png",
+            "infobox_path": "dota_deck_dragon_scale_infobox.png",
             "name": "Dragon Scale",
             "wiki": "https://dota2.fandom.com/wiki/Dragon_Scale"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/essence_ring_ability_1.png",
+                    "ability_image_path": "dota_deck_essence_ring_ability_1.png",
                     "ability_name": "Life Essence"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/essence_ring_icon.png",
+            "icon_path": "dota_deck_essence_ring_icon.png",
             "id": "essence_ring",
-            "infobox_path": "assets/items/essence_ring_infobox.png",
+            "infobox_path": "dota_deck_essence_ring_infobox.png",
             "name": "Essence Ring",
             "wiki": "https://dota2.fandom.com/wiki/Essence_Ring"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/fae_grenade_ability_1.png",
+                    "ability_image_path": "dota_deck_fae_grenade_ability_1.png",
                     "ability_name": "Shadow Brand"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/fae_grenade_icon.png",
+            "icon_path": "dota_deck_fae_grenade_icon.png",
             "id": "fae_grenade",
-            "infobox_path": "assets/items/fae_grenade_infobox.png",
+            "infobox_path": "dota_deck_fae_grenade_infobox.png",
             "name": "Fae Grenade",
             "wiki": "https://dota2.fandom.com/wiki/Fae_Grenade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/grove_bow_ability_1.png",
+                    "ability_image_path": "dota_deck_grove_bow_ability_1.png",
                     "ability_name": "Magic Amp"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/grove_bow_icon.png",
+            "icon_path": "dota_deck_grove_bow_icon.png",
             "id": "grove_bow",
-            "infobox_path": "assets/items/grove_bow_infobox.png",
+            "infobox_path": "dota_deck_grove_bow_infobox.png",
             "name": "Grove Bow",
             "wiki": "https://dota2.fandom.com/wiki/Grove_Bow"
         },
         {
             "abilities": [],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/nether_shawl_icon.png",
+            "icon_path": "dota_deck_nether_shawl_icon.png",
             "id": "nether_shawl",
-            "infobox_path": "assets/items/nether_shawl_infobox.png",
+            "infobox_path": "dota_deck_nether_shawl_infobox.png",
             "name": "Nether Shawl",
             "wiki": "https://dota2.fandom.com/wiki/Nether_Shawl"
         },
         {
             "abilities": [],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/philosophers_stone_icon.png",
+            "icon_path": "dota_deck_philosophers_stone_icon.png",
             "id": "philosophers_stone",
-            "infobox_path": "assets/items/philosophers_stone_infobox.png",
+            "infobox_path": "dota_deck_philosophers_stone_infobox.png",
             "name": "Philosophers Stone",
             "wiki": "https://dota2.fandom.com/wiki/Philosopher%27s_Stone"
         },
         {
             "abilities": [],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/pupils_gift_icon.png",
+            "icon_path": "dota_deck_pupils_gift_icon.png",
             "id": "pupils_gift",
-            "infobox_path": "assets/items/pupils_gift_infobox.png",
+            "infobox_path": "dota_deck_pupils_gift_infobox.png",
             "name": "Pupils Gift",
             "wiki": "https://dota2.fandom.com/wiki/Pupil%27s_Gift"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/quicksilver_amulet_ability_1.png",
+                    "ability_image_path": "dota_deck_quicksilver_amulet_ability_1.png",
                     "ability_name": "Quicksilver"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/quicksilver_amulet_icon.png",
+            "icon_path": "dota_deck_quicksilver_amulet_icon.png",
             "id": "quicksilver_amulet",
-            "infobox_path": "assets/items/quicksilver_amulet_infobox.png",
+            "infobox_path": "dota_deck_quicksilver_amulet_infobox.png",
             "name": "Quicksilver Amulet",
             "wiki": "https://dota2.fandom.com/wiki/Quicksilver_Amulet"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ring_of_aquila_ability_1.png",
+                    "ability_image_path": "dota_deck_ring_of_aquila_ability_1.png",
                     "ability_name": "Aquila Aura"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/ring_of_aquila_icon.png",
+            "icon_path": "dota_deck_ring_of_aquila_icon.png",
             "id": "ring_of_aquila",
-            "infobox_path": "assets/items/ring_of_aquila_infobox.png",
+            "infobox_path": "dota_deck_ring_of_aquila_infobox.png",
             "name": "Ring of Aquila",
             "wiki": "https://dota2.fandom.com/wiki/Ring_of_Aquila"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/vambrace_ability_1.png",
+                    "ability_image_path": "dota_deck_vambrace_ability_1.png",
                     "ability_name": "Switch Attribute"
                 }
             ],
             "category": "neutral_tier_2",
-            "icon_path": "assets/items/vambrace_icon.png",
+            "icon_path": "dota_deck_vambrace_icon.png",
             "id": "vambrace",
-            "infobox_path": "assets/items/vambrace_infobox.png",
+            "infobox_path": "dota_deck_vambrace_infobox.png",
             "name": "Vambrace",
             "wiki": "https://dota2.fandom.com/wiki/Vambrace"
         }
@@ -1048,144 +1048,144 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/blast_rig_ability_1.png",
+                    "ability_image_path": "dota_deck_blast_rig_ability_1.png",
                     "ability_name": "Hair Trigger"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/blast_rig_icon.png",
+            "icon_path": "dota_deck_blast_rig_icon.png",
             "id": "blast_rig",
-            "infobox_path": "assets/items/blast_rig_infobox.png",
+            "infobox_path": "dota_deck_blast_rig_infobox.png",
             "name": "Blast Rig",
             "wiki": "https://dota2.fandom.com/wiki/Blast_Rig"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ceremonial_robe_ability_1.png",
+                    "ability_image_path": "dota_deck_ceremonial_robe_ability_1.png",
                     "ability_name": "Ceremonial Aura"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/ceremonial_robe_icon.png",
+            "icon_path": "dota_deck_ceremonial_robe_icon.png",
             "id": "ceremonial_robe",
-            "infobox_path": "assets/items/ceremonial_robe_infobox.png",
+            "infobox_path": "dota_deck_ceremonial_robe_infobox.png",
             "name": "Ceremonial Robe",
             "wiki": "https://dota2.fandom.com/wiki/Ceremonial_Robe"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/cloak_of_flames_ability_1.png",
+                    "ability_image_path": "dota_deck_cloak_of_flames_ability_1.png",
                     "ability_name": "Immolate"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/cloak_of_flames_icon.png",
+            "icon_path": "dota_deck_cloak_of_flames_icon.png",
             "id": "cloak_of_flames",
-            "infobox_path": "assets/items/cloak_of_flames_infobox.png",
+            "infobox_path": "dota_deck_cloak_of_flames_infobox.png",
             "name": "Cloak of Flames",
             "wiki": "https://dota2.fandom.com/wiki/Cloak_of_Flames"
         },
         {
             "abilities": [],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/elven_tunic_icon.png",
+            "icon_path": "dota_deck_elven_tunic_icon.png",
             "id": "elven_tunic",
-            "infobox_path": "assets/items/elven_tunic_infobox.png",
+            "infobox_path": "dota_deck_elven_tunic_infobox.png",
             "name": "Elven Tunic",
             "wiki": "https://dota2.fandom.com/wiki/Elven_Tunic"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/enchanted_quiver_ability_1.png",
+                    "ability_image_path": "dota_deck_enchanted_quiver_ability_1.png",
                     "ability_name": "Certain Strike"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/enchanted_quiver_icon.png",
+            "icon_path": "dota_deck_enchanted_quiver_icon.png",
             "id": "enchanted_quiver",
-            "infobox_path": "assets/items/enchanted_quiver_infobox.png",
+            "infobox_path": "dota_deck_enchanted_quiver_infobox.png",
             "name": "Enchanted Quiver",
             "wiki": "https://dota2.fandom.com/wiki/Enchanted_Quiver"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mind_breaker_ability_1.png",
+                    "ability_image_path": "dota_deck_mind_breaker_ability_1.png",
                     "ability_name": "Silence Strike"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/mind_breaker_icon.png",
+            "icon_path": "dota_deck_mind_breaker_icon.png",
             "id": "mind_breaker",
-            "infobox_path": "assets/items/mind_breaker_infobox.png",
+            "infobox_path": "dota_deck_mind_breaker_infobox.png",
             "name": "Mind Breaker",
             "wiki": "https://dota2.fandom.com/wiki/Mind_Breaker"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/paladin_sword_ability_1.png",
+                    "ability_image_path": "dota_deck_paladin_sword_ability_1.png",
                     "ability_name": "Greater Healing"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/paladin_sword_icon.png",
+            "icon_path": "dota_deck_paladin_sword_icon.png",
             "id": "paladin_sword",
-            "infobox_path": "assets/items/paladin_sword_infobox.png",
+            "infobox_path": "dota_deck_paladin_sword_infobox.png",
             "name": "Paladin Sword",
             "wiki": "https://dota2.fandom.com/wiki/Paladin_Sword"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/psychic_headband_ability_1.png",
+                    "ability_image_path": "dota_deck_psychic_headband_ability_1.png",
                     "ability_name": "Psychic Push"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/psychic_headband_icon.png",
+            "icon_path": "dota_deck_psychic_headband_icon.png",
             "id": "psychic_headband",
-            "infobox_path": "assets/items/psychic_headband_infobox.png",
+            "infobox_path": "dota_deck_psychic_headband_infobox.png",
             "name": "Psychic Headband",
             "wiki": "https://dota2.fandom.com/wiki/Psychic_Headband"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/quickening_charm_ability_1.png",
+                    "ability_image_path": "dota_deck_quickening_charm_ability_1.png",
                     "ability_name": "Cooldown Reduction"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/quickening_charm_icon.png",
+            "icon_path": "dota_deck_quickening_charm_icon.png",
             "id": "quickening_charm",
-            "infobox_path": "assets/items/quickening_charm_infobox.png",
+            "infobox_path": "dota_deck_quickening_charm_infobox.png",
             "name": "Quickening Charm",
             "wiki": "https://dota2.fandom.com/wiki/Quickening_Charm"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/spider_legs_ability_1.png",
+                    "ability_image_path": "dota_deck_spider_legs_ability_1.png",
                     "ability_name": "Scurry"
                 }
             ],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/spider_legs_icon.png",
+            "icon_path": "dota_deck_spider_legs_icon.png",
             "id": "spider_legs",
-            "infobox_path": "assets/items/spider_legs_infobox.png",
+            "infobox_path": "dota_deck_spider_legs_infobox.png",
             "name": "Spider Legs",
             "wiki": "https://dota2.fandom.com/wiki/Spider_Legs"
         },
         {
             "abilities": [],
             "category": "neutral_tier_3",
-            "icon_path": "assets/items/titan_sliver_icon.png",
+            "icon_path": "dota_deck_titan_sliver_icon.png",
             "id": "titan_sliver",
-            "infobox_path": "assets/items/titan_sliver_infobox.png",
+            "infobox_path": "dota_deck_titan_sliver_infobox.png",
             "name": "Titan Sliver",
             "wiki": "https://dota2.fandom.com/wiki/Titan_Sliver"
         }
@@ -1194,157 +1194,157 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ascetics_cap_ability_1.png",
+                    "ability_image_path": "dota_deck_ascetics_cap_ability_1.png",
                     "ability_name": "Endurance"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/ascetics_cap_icon.png",
+            "icon_path": "dota_deck_ascetics_cap_icon.png",
             "id": "ascetics_cap",
-            "infobox_path": "assets/items/ascetics_cap_infobox.png",
+            "infobox_path": "dota_deck_ascetics_cap_infobox.png",
             "name": "Ascetics Cap",
             "wiki": "https://dota2.fandom.com/wiki/Ascetic%27s_Cap"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/flicker_ability_1.png",
+                    "ability_image_path": "dota_deck_flicker_ability_1.png",
                     "ability_name": "Flicker"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/flicker_icon.png",
+            "icon_path": "dota_deck_flicker_icon.png",
             "id": "flicker",
-            "infobox_path": "assets/items/flicker_infobox.png",
+            "infobox_path": "dota_deck_flicker_infobox.png",
             "name": "Flicker",
             "wiki": "https://dota2.fandom.com/wiki/Flicker"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ninja_gear_ability_1.png",
+                    "ability_image_path": "dota_deck_ninja_gear_ability_1.png",
                     "ability_name": "Solitary Disguise"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/ninja_gear_icon.png",
+            "icon_path": "dota_deck_ninja_gear_icon.png",
             "id": "ninja_gear",
-            "infobox_path": "assets/items/ninja_gear_infobox.png",
+            "infobox_path": "dota_deck_ninja_gear_infobox.png",
             "name": "Ninja Gear",
             "wiki": "https://dota2.fandom.com/wiki/Ninja_Gear"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/pentaedged_sword_ability_1.png",
+                    "ability_image_path": "dota_deck_pentaedged_sword_ability_1.png",
                     "ability_name": "Maim"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/pentaedged_sword_icon.png",
+            "icon_path": "dota_deck_pentaedged_sword_icon.png",
             "id": "pentaedged_sword",
-            "infobox_path": "assets/items/pentaedged_sword_infobox.png",
+            "infobox_path": "dota_deck_pentaedged_sword_infobox.png",
             "name": "PentaEdged Sword",
             "wiki": "https://dota2.fandom.com/wiki/Penta-Edged_Sword"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/spell_prism_ability_1.png",
+                    "ability_image_path": "dota_deck_spell_prism_ability_1.png",
                     "ability_name": "Cooldown Reduction"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/spell_prism_icon.png",
+            "icon_path": "dota_deck_spell_prism_icon.png",
             "id": "spell_prism",
-            "infobox_path": "assets/items/spell_prism_infobox.png",
+            "infobox_path": "dota_deck_spell_prism_infobox.png",
             "name": "Spell Prism",
             "wiki": "https://dota2.fandom.com/wiki/Spell_Prism"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/stormcrafter_ability_1.png",
+                    "ability_image_path": "dota_deck_stormcrafter_ability_1.png",
                     "ability_name": "Whirlwind"
                 },
                 {
-                    "ability_image_path": "assets/items/stormcrafter_ability_2.png",
+                    "ability_image_path": "dota_deck_stormcrafter_ability_2.png",
                     "ability_name": "Bottled Lightning"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/stormcrafter_icon.png",
+            "icon_path": "dota_deck_stormcrafter_icon.png",
             "id": "stormcrafter",
-            "infobox_path": "assets/items/stormcrafter_infobox.png",
+            "infobox_path": "dota_deck_stormcrafter_infobox.png",
             "name": "Stormcrafter",
             "wiki": "https://dota2.fandom.com/wiki/Stormcrafter"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/telescope_ability_1.png",
+                    "ability_image_path": "dota_deck_telescope_ability_1.png",
                     "ability_name": "Prescient Aura"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/telescope_icon.png",
+            "icon_path": "dota_deck_telescope_icon.png",
             "id": "telescope",
-            "infobox_path": "assets/items/telescope_infobox.png",
+            "infobox_path": "dota_deck_telescope_infobox.png",
             "name": "Telescope",
             "wiki": "https://dota2.fandom.com/wiki/Telescope"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/the_leveller_ability_1.png",
+                    "ability_image_path": "dota_deck_the_leveller_ability_1.png",
                     "ability_name": "Demolish"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/the_leveller_icon.png",
+            "icon_path": "dota_deck_the_leveller_icon.png",
             "id": "the_leveller",
-            "infobox_path": "assets/items/the_leveller_infobox.png",
+            "infobox_path": "dota_deck_the_leveller_infobox.png",
             "name": "The Leveller",
             "wiki": "https://dota2.fandom.com/wiki/The_Leveller"
         },
         {
             "abilities": [],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/timeless_relic_icon.png",
+            "icon_path": "dota_deck_timeless_relic_icon.png",
             "id": "timeless_relic",
-            "infobox_path": "assets/items/timeless_relic_infobox.png",
+            "infobox_path": "dota_deck_timeless_relic_infobox.png",
             "name": "Timeless Relic",
             "wiki": "https://dota2.fandom.com/wiki/Timeless_Relic"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/trickster_cloak_ability_1.png",
+                    "ability_image_path": "dota_deck_trickster_cloak_ability_1.png",
                     "ability_name": "Cloak"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/trickster_cloak_icon.png",
+            "icon_path": "dota_deck_trickster_cloak_icon.png",
             "id": "trickster_cloak",
-            "infobox_path": "assets/items/trickster_cloak_infobox.png",
+            "infobox_path": "dota_deck_trickster_cloak_infobox.png",
             "name": "Trickster Cloak",
             "wiki": "https://dota2.fandom.com/wiki/Trickster_Cloak"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/witchbane_ability_1.png",
+                    "ability_image_path": "dota_deck_witchbane_ability_1.png",
                     "ability_name": "Cleanse"
                 },
                 {
-                    "ability_image_path": "assets/items/witchbane_ability_2.png",
+                    "ability_image_path": "dota_deck_witchbane_ability_2.png",
                     "ability_name": "Subjugate"
                 }
             ],
             "category": "neutral_tier_4",
-            "icon_path": "assets/items/witchbane_icon.png",
+            "icon_path": "dota_deck_witchbane_icon.png",
             "id": "witchbane",
-            "infobox_path": "assets/items/witchbane_infobox.png",
+            "infobox_path": "dota_deck_witchbane_infobox.png",
             "name": "Witchbane",
             "wiki": "https://dota2.fandom.com/wiki/Witchbane"
         }
@@ -1353,187 +1353,187 @@
         {
             "abilities": [],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/apex_icon.png",
+            "icon_path": "dota_deck_apex_icon.png",
             "id": "apex",
-            "infobox_path": "assets/items/apex_infobox.png",
+            "infobox_path": "dota_deck_apex_infobox.png",
             "name": "Apex",
             "wiki": "https://dota2.fandom.com/wiki/Apex"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/arcanists_armor_ability_1.png",
+                    "ability_image_path": "dota_deck_arcanists_armor_ability_1.png",
                     "ability_name": "Mega Shield"
                 },
                 {
-                    "ability_image_path": "assets/items/arcanists_armor_ability_2.png",
+                    "ability_image_path": "dota_deck_arcanists_armor_ability_2.png",
                     "ability_name": "Shield"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/arcanists_armor_icon.png",
+            "icon_path": "dota_deck_arcanists_armor_icon.png",
             "id": "arcanists_armor",
-            "infobox_path": "assets/items/arcanists_armor_infobox.png",
+            "infobox_path": "dota_deck_arcanists_armor_infobox.png",
             "name": "Arcanists Armor",
             "wiki": "https://dota2.fandom.com/wiki/Arcanist%27s_Armor"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/book_of_shadows_ability_1.png",
+                    "ability_image_path": "dota_deck_book_of_shadows_ability_1.png",
                     "ability_name": "Shadows"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/book_of_shadows_icon.png",
+            "icon_path": "dota_deck_book_of_shadows_icon.png",
             "id": "book_of_shadows",
-            "infobox_path": "assets/items/book_of_shadows_infobox.png",
+            "infobox_path": "dota_deck_book_of_shadows_infobox.png",
             "name": "Book of Shadows",
             "wiki": "https://dota2.fandom.com/wiki/Book_of_Shadows"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/book_of_the_dead_ability_1.png",
+                    "ability_image_path": "dota_deck_book_of_the_dead_ability_1.png",
                     "ability_name": "Greater Demonic Summoning"
                 },
                 {
-                    "ability_image_path": "assets/items/book_of_the_dead_ability_2.png",
+                    "ability_image_path": "dota_deck_book_of_the_dead_ability_2.png",
                     "ability_name": "Mana Break"
                 },
                 {
-                    "ability_image_path": "assets/items/book_of_the_dead_ability_3.png",
+                    "ability_image_path": "dota_deck_book_of_the_dead_ability_3.png",
                     "ability_name": "Last Will"
                 },
                 {
-                    "ability_image_path": "assets/items/book_of_the_dead_ability_4.png",
+                    "ability_image_path": "dota_deck_book_of_the_dead_ability_4.png",
                     "ability_name": "True Sight"
                 },
                 {
-                    "ability_image_path": "assets/items/book_of_the_dead_ability_5.png",
+                    "ability_image_path": "dota_deck_book_of_the_dead_ability_5.png",
                     "ability_name": "Purge\nQR"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/book_of_the_dead_icon.png",
+            "icon_path": "dota_deck_book_of_the_dead_icon.png",
             "id": "book_of_the_dead",
-            "infobox_path": "assets/items/book_of_the_dead_infobox.png",
+            "infobox_path": "dota_deck_book_of_the_dead_infobox.png",
             "name": "Book of the Dead",
             "wiki": "https://dota2.fandom.com/wiki/Book_of_the_Dead"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ex_machina_ability_1.png",
+                    "ability_image_path": "dota_deck_ex_machina_ability_1.png",
                     "ability_name": "Reset Cooldowns"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/ex_machina_icon.png",
+            "icon_path": "dota_deck_ex_machina_icon.png",
             "id": "ex_machina",
-            "infobox_path": "assets/items/ex_machina_infobox.png",
+            "infobox_path": "dota_deck_ex_machina_infobox.png",
             "name": "Ex Machina",
             "wiki": "https://dota2.fandom.com/wiki/Ex_Machina"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/fallen_sky_ability_1.png",
+                    "ability_image_path": "dota_deck_fallen_sky_ability_1.png",
                     "ability_name": "Fallen Sky"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/fallen_sky_icon.png",
+            "icon_path": "dota_deck_fallen_sky_icon.png",
             "id": "fallen_sky",
-            "infobox_path": "assets/items/fallen_sky_infobox.png",
+            "infobox_path": "dota_deck_fallen_sky_infobox.png",
             "name": "Fallen Sky",
             "wiki": "https://dota2.fandom.com/wiki/Fallen_Sky"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/force_boots_ability_1.png",
+                    "ability_image_path": "dota_deck_force_boots_ability_1.png",
                     "ability_name": "Force"
                 },
                 {
-                    "ability_image_path": "assets/items/force_boots_ability_2.png",
+                    "ability_image_path": "dota_deck_force_boots_ability_2.png",
                     "ability_name": "Speed Unlock"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/force_boots_icon.png",
+            "icon_path": "dota_deck_force_boots_icon.png",
             "id": "force_boots",
-            "infobox_path": "assets/items/force_boots_infobox.png",
+            "infobox_path": "dota_deck_force_boots_infobox.png",
             "name": "Force Boots",
             "wiki": "https://dota2.fandom.com/wiki/Force_Boots"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/giants_ring_ability_1.png",
+                    "ability_image_path": "dota_deck_giants_ring_ability_1.png",
                     "ability_name": "Giant's Foot"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/giants_ring_icon.png",
+            "icon_path": "dota_deck_giants_ring_icon.png",
             "id": "giants_ring",
-            "infobox_path": "assets/items/giants_ring_infobox.png",
+            "infobox_path": "dota_deck_giants_ring_infobox.png",
             "name": "Giants Ring",
             "wiki": "https://dota2.fandom.com/wiki/Giant%27s_Ring"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mirror_shield_ability_1.png",
+                    "ability_image_path": "dota_deck_mirror_shield_ability_1.png",
                     "ability_name": "Echo Shield"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/mirror_shield_icon.png",
+            "icon_path": "dota_deck_mirror_shield_icon.png",
             "id": "mirror_shield",
-            "infobox_path": "assets/items/mirror_shield_infobox.png",
+            "infobox_path": "dota_deck_mirror_shield_infobox.png",
             "name": "Mirror Shield",
             "wiki": "https://dota2.fandom.com/wiki/Mirror_Shield"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/pirate_hat_ability_1.png",
+                    "ability_image_path": "dota_deck_pirate_hat_ability_1.png",
                     "ability_name": "Dig"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/pirate_hat_icon.png",
+            "icon_path": "dota_deck_pirate_hat_icon.png",
             "id": "pirate_hat",
-            "infobox_path": "assets/items/pirate_hat_infobox.png",
+            "infobox_path": "dota_deck_pirate_hat_infobox.png",
             "name": "Pirate Hat",
             "wiki": "https://dota2.fandom.com/wiki/Pirate_Hat"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/seer_stone_ability_1.png",
+                    "ability_image_path": "dota_deck_seer_stone_ability_1.png",
                     "ability_name": "Reveal"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/seer_stone_icon.png",
+            "icon_path": "dota_deck_seer_stone_icon.png",
             "id": "seer_stone",
-            "infobox_path": "assets/items/seer_stone_infobox.png",
+            "infobox_path": "dota_deck_seer_stone_infobox.png",
             "name": "Seer Stone",
             "wiki": "https://dota2.fandom.com/wiki/Seer_Stone"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/stygian_desolator_ability_1.png",
+                    "ability_image_path": "dota_deck_stygian_desolator_ability_1.png",
                     "ability_name": "Greater Corruption"
                 }
             ],
             "category": "neutral_tier_5",
-            "icon_path": "assets/items/stygian_desolator_icon.png",
+            "icon_path": "dota_deck_stygian_desolator_icon.png",
             "id": "stygian_desolator",
-            "infobox_path": "assets/items/stygian_desolator_infobox.png",
+            "infobox_path": "dota_deck_stygian_desolator_infobox.png",
             "name": "Stygian Desolator",
             "wiki": "https://dota2.fandom.com/wiki/Stygian_Desolator"
         }
@@ -1542,70 +1542,70 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aegis_of_the_immortal_ability_1.png",
+                    "ability_image_path": "dota_deck_aegis_of_the_immortal_ability_1.png",
                     "ability_name": "Reincarnation"
                 }
             ],
             "category": "roshan",
-            "icon_path": "assets/items/aegis_of_the_immortal_icon.png",
+            "icon_path": "dota_deck_aegis_of_the_immortal_icon.png",
             "id": "aegis_of_the_immortal",
-            "infobox_path": "assets/items/aegis_of_the_immortal_infobox.png",
+            "infobox_path": "dota_deck_aegis_of_the_immortal_infobox.png",
             "name": "Aegis of the Immortal",
             "wiki": "https://dota2.fandom.com/wiki/Aegis_of_the_Immortal"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aghanims_blessing__roshan_ability_1.png",
+                    "ability_image_path": "dota_deck_aghanims_blessing__roshan_ability_1.png",
                     "ability_name": "Ability Upgrade"
                 }
             ],
             "category": "roshan",
-            "icon_path": "assets/items/aghanims_blessing__roshan_icon.png",
+            "icon_path": "dota_deck_aghanims_blessing__roshan_icon.png",
             "id": "aghanims_blessing__roshan",
-            "infobox_path": "assets/items/aghanims_blessing__roshan_infobox.png",
+            "infobox_path": "dota_deck_aghanims_blessing__roshan_infobox.png",
             "name": "Aghanims Blessing  Roshan",
             "wiki": "https://dota2.fandom.com/wiki/Aghanim%27s_Blessing_-_Roshan"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aghanims_shard__roshan_ability_1.png",
+                    "ability_image_path": "dota_deck_aghanims_shard__roshan_ability_1.png",
                     "ability_name": "Ability Upgrade"
                 }
             ],
             "category": "roshan",
-            "icon_path": "assets/items/aghanims_shard__roshan_icon.png",
+            "icon_path": "dota_deck_aghanims_shard__roshan_icon.png",
             "id": "aghanims_shard__roshan",
-            "infobox_path": "assets/items/aghanims_shard__roshan_infobox.png",
+            "infobox_path": "dota_deck_aghanims_shard__roshan_infobox.png",
             "name": "Aghanims Shard  Roshan",
             "wiki": "https://dota2.fandom.com/wiki/Aghanim%27s_Shard_-_Roshan"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/cheese_ability_1.png",
+                    "ability_image_path": "dota_deck_cheese_ability_1.png",
                     "ability_name": "Fondue"
                 }
             ],
             "category": "roshan",
-            "icon_path": "assets/items/cheese_icon.png",
+            "icon_path": "dota_deck_cheese_icon.png",
             "id": "cheese",
-            "infobox_path": "assets/items/cheese_infobox.png",
+            "infobox_path": "dota_deck_cheese_infobox.png",
             "name": "Cheese",
             "wiki": "https://dota2.fandom.com/wiki/Cheese"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/refresher_shard_ability_1.png",
+                    "ability_image_path": "dota_deck_refresher_shard_ability_1.png",
                     "ability_name": "Reset Cooldowns"
                 }
             ],
             "category": "roshan",
-            "icon_path": "assets/items/refresher_shard_icon.png",
+            "icon_path": "dota_deck_refresher_shard_icon.png",
             "id": "refresher_shard",
-            "infobox_path": "assets/items/refresher_shard_infobox.png",
+            "infobox_path": "dota_deck_refresher_shard_infobox.png",
             "name": "Refresher Shard",
             "wiki": "https://dota2.fandom.com/wiki/Refresher_Shard"
         }
@@ -1614,220 +1614,220 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/magic_wand_ability_1.png",
+                    "ability_image_path": "dota_deck_magic_wand_ability_1.png",
                     "ability_name": "Energy Charge"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/magic_wand_icon.png",
+            "icon_path": "dota_deck_magic_wand_icon.png",
             "id": "magic_wand",
-            "infobox_path": "assets/items/magic_wand_infobox.png",
+            "infobox_path": "dota_deck_magic_wand_infobox.png",
             "name": "Magic Wand",
             "wiki": "https://dota2.fandom.com/wiki/Magic_Wand"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/bracer_icon.png",
+            "icon_path": "dota_deck_bracer_icon.png",
             "id": "bracer",
-            "infobox_path": "assets/items/bracer_infobox.png",
+            "infobox_path": "dota_deck_bracer_infobox.png",
             "name": "Bracer",
             "wiki": "https://dota2.fandom.com/wiki/Bracer"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/null_talisman_icon.png",
+            "icon_path": "dota_deck_null_talisman_icon.png",
             "id": "null_talisman",
-            "infobox_path": "assets/items/null_talisman_infobox.png",
+            "infobox_path": "dota_deck_null_talisman_infobox.png",
             "name": "Null Talisman",
             "wiki": "https://dota2.fandom.com/wiki/Null_Talisman"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/wraith_band_icon.png",
+            "icon_path": "dota_deck_wraith_band_icon.png",
             "id": "wraith_band",
-            "infobox_path": "assets/items/wraith_band_infobox.png",
+            "infobox_path": "dota_deck_wraith_band_infobox.png",
             "name": "Wraith Band",
             "wiki": "https://dota2.fandom.com/wiki/Wraith_Band"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/soul_ring_ability_1.png",
+                    "ability_image_path": "dota_deck_soul_ring_ability_1.png",
                     "ability_name": "Sacrifice"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/soul_ring_icon.png",
+            "icon_path": "dota_deck_soul_ring_icon.png",
             "id": "soul_ring",
-            "infobox_path": "assets/items/soul_ring_infobox.png",
+            "infobox_path": "dota_deck_soul_ring_infobox.png",
             "name": "Soul Ring",
             "wiki": "https://dota2.fandom.com/wiki/Soul_Ring"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/orb_of_corrosion_ability_1.png",
+                    "ability_image_path": "dota_deck_orb_of_corrosion_ability_1.png",
                     "ability_name": "Corrosion"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/orb_of_corrosion_icon.png",
+            "icon_path": "dota_deck_orb_of_corrosion_icon.png",
             "id": "orb_of_corrosion",
-            "infobox_path": "assets/items/orb_of_corrosion_infobox.png",
+            "infobox_path": "dota_deck_orb_of_corrosion_infobox.png",
             "name": "Orb of Corrosion",
             "wiki": "https://dota2.fandom.com/wiki/Orb_of_Corrosion"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/falcon_blade_icon.png",
+            "icon_path": "dota_deck_falcon_blade_icon.png",
             "id": "falcon_blade",
-            "infobox_path": "assets/items/falcon_blade_infobox.png",
+            "infobox_path": "dota_deck_falcon_blade_infobox.png",
             "name": "Falcon Blade",
             "wiki": "https://dota2.fandom.com/wiki/Falcon_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/power_treads_ability_1.png",
+                    "ability_image_path": "dota_deck_power_treads_ability_1.png",
                     "ability_name": "Switch Attribute"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/power_treads_icon.png",
+            "icon_path": "dota_deck_power_treads_icon.png",
             "id": "power_treads",
-            "infobox_path": "assets/items/power_treads_infobox.png",
+            "infobox_path": "dota_deck_power_treads_infobox.png",
             "name": "Power Treads",
             "wiki": "https://dota2.fandom.com/wiki/Power_Treads"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/oblivion_staff_icon.png",
+            "icon_path": "dota_deck_oblivion_staff_icon.png",
             "id": "oblivion_staff",
-            "infobox_path": "assets/items/oblivion_staff_infobox.png",
+            "infobox_path": "dota_deck_oblivion_staff_infobox.png",
             "name": "Oblivion Staff",
             "wiki": "https://dota2.fandom.com/wiki/Oblivion_Staff"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/phase_boots_ability_1.png",
+                    "ability_image_path": "dota_deck_phase_boots_ability_1.png",
                     "ability_name": "Phase"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/phase_boots_icon.png",
+            "icon_path": "dota_deck_phase_boots_icon.png",
             "id": "phase_boots",
-            "infobox_path": "assets/items/phase_boots_infobox.png",
+            "infobox_path": "dota_deck_phase_boots_infobox.png",
             "name": "Phase Boots",
             "wiki": "https://dota2.fandom.com/wiki/Phase_Boots"
         },
         {
             "abilities": [],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/perseverance_icon.png",
+            "icon_path": "dota_deck_perseverance_icon.png",
             "id": "perseverance",
-            "infobox_path": "assets/items/perseverance_infobox.png",
+            "infobox_path": "dota_deck_perseverance_infobox.png",
             "name": "Perseverance",
             "wiki": "https://dota2.fandom.com/wiki/Perseverance"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mask_of_madness_ability_1.png",
+                    "ability_image_path": "dota_deck_mask_of_madness_ability_1.png",
                     "ability_name": "Berserk"
                 },
                 {
-                    "ability_image_path": "assets/items/mask_of_madness_ability_2.png",
+                    "ability_image_path": "dota_deck_mask_of_madness_ability_2.png",
                     "ability_name": "Lifesteal"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/mask_of_madness_icon.png",
+            "icon_path": "dota_deck_mask_of_madness_icon.png",
             "id": "mask_of_madness",
-            "infobox_path": "assets/items/mask_of_madness_infobox.png",
+            "infobox_path": "dota_deck_mask_of_madness_infobox.png",
             "name": "Mask of Madness",
             "wiki": "https://dota2.fandom.com/wiki/Mask_of_Madness"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/hand_of_midas_ability_1.png",
+                    "ability_image_path": "dota_deck_hand_of_midas_ability_1.png",
                     "ability_name": "Transmute"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/hand_of_midas_icon.png",
+            "icon_path": "dota_deck_hand_of_midas_icon.png",
             "id": "hand_of_midas",
-            "infobox_path": "assets/items/hand_of_midas_infobox.png",
+            "infobox_path": "dota_deck_hand_of_midas_infobox.png",
             "name": "Hand of Midas",
             "wiki": "https://dota2.fandom.com/wiki/Hand_of_Midas"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/helm_of_the_dominator_ability_1.png",
+                    "ability_image_path": "dota_deck_helm_of_the_dominator_ability_1.png",
                     "ability_name": "Dominate"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/helm_of_the_dominator_icon.png",
+            "icon_path": "dota_deck_helm_of_the_dominator_icon.png",
             "id": "helm_of_the_dominator",
-            "infobox_path": "assets/items/helm_of_the_dominator_infobox.png",
+            "infobox_path": "dota_deck_helm_of_the_dominator_infobox.png",
             "name": "Helm of the Dominator",
             "wiki": "https://dota2.fandom.com/wiki/Helm_of_the_Dominator"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/boots_of_travel_ability_1.png",
+                    "ability_image_path": "dota_deck_boots_of_travel_ability_1.png",
                     "ability_name": "Upgrade: Town Portal Scroll"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/boots_of_travel_icon.png",
+            "icon_path": "dota_deck_boots_of_travel_icon.png",
             "id": "boots_of_travel",
-            "infobox_path": "assets/items/boots_of_travel_infobox.png",
+            "infobox_path": "dota_deck_boots_of_travel_infobox.png",
             "name": "Boots of Travel",
             "wiki": "https://dota2.fandom.com/wiki/Boots_of_Travel"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/moon_shard_ability_1.png",
+                    "ability_image_path": "dota_deck_moon_shard_ability_1.png",
                     "ability_name": "Consume"
                 },
                 {
-                    "ability_image_path": "assets/items/moon_shard_ability_2.png",
+                    "ability_image_path": "dota_deck_moon_shard_ability_2.png",
                     "ability_name": "Shade Sight"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/moon_shard_icon.png",
+            "icon_path": "dota_deck_moon_shard_icon.png",
             "id": "moon_shard",
-            "infobox_path": "assets/items/moon_shard_infobox.png",
+            "infobox_path": "dota_deck_moon_shard_infobox.png",
             "name": "Moon Shard",
             "wiki": "https://dota2.fandom.com/wiki/Moon_Shard"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/helm_of_the_overlord_ability_1.png",
+                    "ability_image_path": "dota_deck_helm_of_the_overlord_ability_1.png",
                     "ability_name": "Dominate"
                 },
                 {
-                    "ability_image_path": "assets/items/helm_of_the_overlord_ability_2.png",
+                    "ability_image_path": "dota_deck_helm_of_the_overlord_ability_2.png",
                     "ability_name": "Vladmir's Aura"
                 }
             ],
             "category": "upgraded_accessories",
-            "icon_path": "assets/items/helm_of_the_overlord_icon.png",
+            "icon_path": "dota_deck_helm_of_the_overlord_icon.png",
             "id": "helm_of_the_overlord",
-            "infobox_path": "assets/items/helm_of_the_overlord_infobox.png",
+            "infobox_path": "dota_deck_helm_of_the_overlord_infobox.png",
             "name": "Helm of the Overlord",
             "wiki": "https://dota2.fandom.com/wiki/Helm_of_the_Overlord"
         }
@@ -1836,238 +1836,238 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/hood_of_defiance_ability_1.png",
+                    "ability_image_path": "dota_deck_hood_of_defiance_ability_1.png",
                     "ability_name": "Barrier"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/hood_of_defiance_icon.png",
+            "icon_path": "dota_deck_hood_of_defiance_icon.png",
             "id": "hood_of_defiance",
-            "infobox_path": "assets/items/hood_of_defiance_infobox.png",
+            "infobox_path": "dota_deck_hood_of_defiance_infobox.png",
             "name": "Hood of Defiance",
             "wiki": "https://dota2.fandom.com/wiki/Hood_of_Defiance"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/vanguard_ability_1.png",
+                    "ability_image_path": "dota_deck_vanguard_ability_1.png",
                     "ability_name": "Damage Block"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/vanguard_icon.png",
+            "icon_path": "dota_deck_vanguard_icon.png",
             "id": "vanguard",
-            "infobox_path": "assets/items/vanguard_infobox.png",
+            "infobox_path": "dota_deck_vanguard_infobox.png",
             "name": "Vanguard",
             "wiki": "https://dota2.fandom.com/wiki/Vanguard"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/blade_mail_ability_1.png",
+                    "ability_image_path": "dota_deck_blade_mail_ability_1.png",
                     "ability_name": "Damage Return"
                 },
                 {
-                    "ability_image_path": "assets/items/blade_mail_ability_2.png",
+                    "ability_image_path": "dota_deck_blade_mail_ability_2.png",
                     "ability_name": "Damage Return (Passive)"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/blade_mail_icon.png",
+            "icon_path": "dota_deck_blade_mail_icon.png",
             "id": "blade_mail",
-            "infobox_path": "assets/items/blade_mail_infobox.png",
+            "infobox_path": "dota_deck_blade_mail_infobox.png",
             "name": "Blade Mail",
             "wiki": "https://dota2.fandom.com/wiki/Blade_Mail"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aeon_disk_ability_1.png",
+                    "ability_image_path": "dota_deck_aeon_disk_ability_1.png",
                     "ability_name": "Combo Breaker"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/aeon_disk_icon.png",
+            "icon_path": "dota_deck_aeon_disk_icon.png",
             "id": "aeon_disk",
-            "infobox_path": "assets/items/aeon_disk_infobox.png",
+            "infobox_path": "dota_deck_aeon_disk_infobox.png",
             "name": "Aeon Disk",
             "wiki": "https://dota2.fandom.com/wiki/Aeon_Disk"
         },
         {
             "abilities": [],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/soul_booster_icon.png",
+            "icon_path": "dota_deck_soul_booster_icon.png",
             "id": "soul_booster",
-            "infobox_path": "assets/items/soul_booster_infobox.png",
+            "infobox_path": "dota_deck_soul_booster_infobox.png",
             "name": "Soul Booster",
             "wiki": "https://dota2.fandom.com/wiki/Soul_Booster"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/eternal_shroud_ability_1.png",
+                    "ability_image_path": "dota_deck_eternal_shroud_ability_1.png",
                     "ability_name": "Shroud"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/eternal_shroud_icon.png",
+            "icon_path": "dota_deck_eternal_shroud_icon.png",
             "id": "eternal_shroud",
-            "infobox_path": "assets/items/eternal_shroud_infobox.png",
+            "infobox_path": "dota_deck_eternal_shroud_infobox.png",
             "name": "Eternal Shroud",
             "wiki": "https://dota2.fandom.com/wiki/Eternal_Shroud"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/crimson_guard_ability_1.png",
+                    "ability_image_path": "dota_deck_crimson_guard_ability_1.png",
                     "ability_name": "Guard"
                 },
                 {
-                    "ability_image_path": "assets/items/crimson_guard_ability_2.png",
+                    "ability_image_path": "dota_deck_crimson_guard_ability_2.png",
                     "ability_name": "Damage Block"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/crimson_guard_icon.png",
+            "icon_path": "dota_deck_crimson_guard_icon.png",
             "id": "crimson_guard",
-            "infobox_path": "assets/items/crimson_guard_infobox.png",
+            "infobox_path": "dota_deck_crimson_guard_infobox.png",
             "name": "Crimson Guard",
             "wiki": "https://dota2.fandom.com/wiki/Crimson_Guard"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/lotus_orb_ability_1.png",
+                    "ability_image_path": "dota_deck_lotus_orb_ability_1.png",
                     "ability_name": "Echo Shell"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/lotus_orb_icon.png",
+            "icon_path": "dota_deck_lotus_orb_icon.png",
             "id": "lotus_orb",
-            "infobox_path": "assets/items/lotus_orb_infobox.png",
+            "infobox_path": "dota_deck_lotus_orb_infobox.png",
             "name": "Lotus Orb",
             "wiki": "https://dota2.fandom.com/wiki/Lotus_Orb"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/black_king_bar_ability_1.png",
+                    "ability_image_path": "dota_deck_black_king_bar_ability_1.png",
                     "ability_name": "Avatar"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/black_king_bar_icon.png",
+            "icon_path": "dota_deck_black_king_bar_icon.png",
             "id": "black_king_bar",
-            "infobox_path": "assets/items/black_king_bar_infobox.png",
+            "infobox_path": "dota_deck_black_king_bar_infobox.png",
             "name": "Black King Bar",
             "wiki": "https://dota2.fandom.com/wiki/Black_King_Bar"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/hurricane_pike_ability_1.png",
+                    "ability_image_path": "dota_deck_hurricane_pike_ability_1.png",
                     "ability_name": "Hurricane Thrust"
                 },
                 {
-                    "ability_image_path": "assets/items/hurricane_pike_ability_2.png",
+                    "ability_image_path": "dota_deck_hurricane_pike_ability_2.png",
                     "ability_name": "Dragon's Reach"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/hurricane_pike_icon.png",
+            "icon_path": "dota_deck_hurricane_pike_icon.png",
             "id": "hurricane_pike",
-            "infobox_path": "assets/items/hurricane_pike_infobox.png",
+            "infobox_path": "dota_deck_hurricane_pike_infobox.png",
             "name": "Hurricane Pike",
             "wiki": "https://dota2.fandom.com/wiki/Hurricane_Pike"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/linkens_sphere_ability_1.png",
+                    "ability_image_path": "dota_deck_linkens_sphere_ability_1.png",
                     "ability_name": "Spellblock"
                 },
                 {
-                    "ability_image_path": "assets/items/linkens_sphere_ability_2.png",
+                    "ability_image_path": "dota_deck_linkens_sphere_ability_2.png",
                     "ability_name": "Transfer Spellblock"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/linkens_sphere_icon.png",
+            "icon_path": "dota_deck_linkens_sphere_icon.png",
             "id": "linkens_sphere",
-            "infobox_path": "assets/items/linkens_sphere_infobox.png",
+            "infobox_path": "dota_deck_linkens_sphere_infobox.png",
             "name": "Linkens Sphere",
             "wiki": "https://dota2.fandom.com/wiki/Linken%27s_Sphere"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/manta_style_ability_1.png",
+                    "ability_image_path": "dota_deck_manta_style_ability_1.png",
                     "ability_name": "Mirror Image"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/manta_style_icon.png",
+            "icon_path": "dota_deck_manta_style_icon.png",
             "id": "manta_style",
-            "infobox_path": "assets/items/manta_style_infobox.png",
+            "infobox_path": "dota_deck_manta_style_infobox.png",
             "name": "Manta Style",
             "wiki": "https://dota2.fandom.com/wiki/Manta_Style"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/shivas_guard_ability_1.png",
+                    "ability_image_path": "dota_deck_shivas_guard_ability_1.png",
                     "ability_name": "Arctic Blast"
                 },
                 {
-                    "ability_image_path": "assets/items/shivas_guard_ability_2.png",
+                    "ability_image_path": "dota_deck_shivas_guard_ability_2.png",
                     "ability_name": "Freezing Aura"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/shivas_guard_icon.png",
+            "icon_path": "dota_deck_shivas_guard_icon.png",
             "id": "shivas_guard",
-            "infobox_path": "assets/items/shivas_guard_infobox.png",
+            "infobox_path": "dota_deck_shivas_guard_infobox.png",
             "name": "Shivas Guard",
             "wiki": "https://dota2.fandom.com/wiki/Shiva%27s_Guard"
         },
         {
             "abilities": [],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/heart_of_tarrasque_icon.png",
+            "icon_path": "dota_deck_heart_of_tarrasque_icon.png",
             "id": "heart_of_tarrasque",
-            "infobox_path": "assets/items/heart_of_tarrasque_infobox.png",
+            "infobox_path": "dota_deck_heart_of_tarrasque_infobox.png",
             "name": "Heart of Tarrasque",
             "wiki": "https://dota2.fandom.com/wiki/Heart_of_Tarrasque"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/assault_cuirass_ability_1.png",
+                    "ability_image_path": "dota_deck_assault_cuirass_ability_1.png",
                     "ability_name": "Assault Aura"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/assault_cuirass_icon.png",
+            "icon_path": "dota_deck_assault_cuirass_icon.png",
             "id": "assault_cuirass",
-            "infobox_path": "assets/items/assault_cuirass_infobox.png",
+            "infobox_path": "dota_deck_assault_cuirass_infobox.png",
             "name": "Assault Cuirass",
             "wiki": "https://dota2.fandom.com/wiki/Assault_Cuirass"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/bloodstone_ability_1.png",
+                    "ability_image_path": "dota_deck_bloodstone_ability_1.png",
                     "ability_name": "Bloodpact"
                 },
                 {
-                    "ability_image_path": "assets/items/bloodstone_ability_2.png",
+                    "ability_image_path": "dota_deck_bloodstone_ability_2.png",
                     "ability_name": "Mana Battery"
                 }
             ],
             "category": "upgraded_armor",
-            "icon_path": "assets/items/bloodstone_icon.png",
+            "icon_path": "dota_deck_bloodstone_icon.png",
             "id": "bloodstone",
-            "infobox_path": "assets/items/bloodstone_infobox.png",
+            "infobox_path": "dota_deck_bloodstone_infobox.png",
             "name": "Bloodstone",
             "wiki": "https://dota2.fandom.com/wiki/Bloodstone"
         }
@@ -2076,234 +2076,234 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/dragon_lance_ability_1.png",
+                    "ability_image_path": "dota_deck_dragon_lance_ability_1.png",
                     "ability_name": "Dragon's Reach"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/dragon_lance_icon.png",
+            "icon_path": "dota_deck_dragon_lance_icon.png",
             "id": "dragon_lance",
-            "infobox_path": "assets/items/dragon_lance_infobox.png",
+            "infobox_path": "dota_deck_dragon_lance_infobox.png",
             "name": "Dragon Lance",
             "wiki": "https://dota2.fandom.com/wiki/Dragon_Lance"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/kaya_icon.png",
+            "icon_path": "dota_deck_kaya_icon.png",
             "id": "kaya",
-            "infobox_path": "assets/items/kaya_infobox.png",
+            "infobox_path": "dota_deck_kaya_infobox.png",
             "name": "Kaya",
             "wiki": "https://dota2.fandom.com/wiki/Kaya"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/sange_icon.png",
+            "icon_path": "dota_deck_sange_icon.png",
             "id": "sange",
-            "infobox_path": "assets/items/sange_infobox.png",
+            "infobox_path": "dota_deck_sange_infobox.png",
             "name": "Sange",
             "wiki": "https://dota2.fandom.com/wiki/Sange"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/yasha_icon.png",
+            "icon_path": "dota_deck_yasha_icon.png",
             "id": "yasha",
-            "infobox_path": "assets/items/yasha_infobox.png",
+            "infobox_path": "dota_deck_yasha_infobox.png",
             "name": "Yasha",
             "wiki": "https://dota2.fandom.com/wiki/Yasha"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mage_slayer_ability_1.png",
+                    "ability_image_path": "dota_deck_mage_slayer_ability_1.png",
                     "ability_name": "Mage Slayer"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/mage_slayer_icon.png",
+            "icon_path": "dota_deck_mage_slayer_icon.png",
             "id": "mage_slayer",
-            "infobox_path": "assets/items/mage_slayer_infobox.png",
+            "infobox_path": "dota_deck_mage_slayer_infobox.png",
             "name": "Mage Slayer",
             "wiki": "https://dota2.fandom.com/wiki/Mage_Slayer"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/echo_sabre_ability_1.png",
+                    "ability_image_path": "dota_deck_echo_sabre_ability_1.png",
                     "ability_name": "Echo Strike"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/echo_sabre_icon.png",
+            "icon_path": "dota_deck_echo_sabre_icon.png",
             "id": "echo_sabre",
-            "infobox_path": "assets/items/echo_sabre_infobox.png",
+            "infobox_path": "dota_deck_echo_sabre_infobox.png",
             "name": "Echo Sabre",
             "wiki": "https://dota2.fandom.com/wiki/Echo_Sabre"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/maelstrom_ability_1.png",
+                    "ability_image_path": "dota_deck_maelstrom_ability_1.png",
                     "ability_name": "Chain Lightning"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/maelstrom_icon.png",
+            "icon_path": "dota_deck_maelstrom_icon.png",
             "id": "maelstrom",
-            "infobox_path": "assets/items/maelstrom_infobox.png",
+            "infobox_path": "dota_deck_maelstrom_infobox.png",
             "name": "Maelstrom",
             "wiki": "https://dota2.fandom.com/wiki/Maelstrom"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/diffusal_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_diffusal_blade_ability_1.png",
                     "ability_name": "Inhibit"
                 },
                 {
-                    "ability_image_path": "assets/items/diffusal_blade_ability_2.png",
+                    "ability_image_path": "dota_deck_diffusal_blade_ability_2.png",
                     "ability_name": "Manabreak"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/diffusal_blade_icon.png",
+            "icon_path": "dota_deck_diffusal_blade_icon.png",
             "id": "diffusal_blade",
-            "infobox_path": "assets/items/diffusal_blade_infobox.png",
+            "infobox_path": "dota_deck_diffusal_blade_infobox.png",
             "name": "Diffusal Blade",
             "wiki": "https://dota2.fandom.com/wiki/Diffusal_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/heavens_halberd_ability_1.png",
+                    "ability_image_path": "dota_deck_heavens_halberd_ability_1.png",
                     "ability_name": "Disarm"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/heavens_halberd_icon.png",
+            "icon_path": "dota_deck_heavens_halberd_icon.png",
             "id": "heavens_halberd",
-            "infobox_path": "assets/items/heavens_halberd_infobox.png",
+            "infobox_path": "dota_deck_heavens_halberd_infobox.png",
             "name": "Heavens Halberd",
             "wiki": "https://dota2.fandom.com/wiki/Heaven%27s_Halberd"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/kaya_and_sange_icon.png",
+            "icon_path": "dota_deck_kaya_and_sange_icon.png",
             "id": "kaya_and_sange",
-            "infobox_path": "assets/items/kaya_and_sange_infobox.png",
+            "infobox_path": "dota_deck_kaya_and_sange_infobox.png",
             "name": "Kaya and Sange",
             "wiki": "https://dota2.fandom.com/wiki/Kaya_and_Sange"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/sange_and_yasha_icon.png",
+            "icon_path": "dota_deck_sange_and_yasha_icon.png",
             "id": "sange_and_yasha",
-            "infobox_path": "assets/items/sange_and_yasha_infobox.png",
+            "infobox_path": "dota_deck_sange_and_yasha_infobox.png",
             "name": "Sange and Yasha",
             "wiki": "https://dota2.fandom.com/wiki/Sange_and_Yasha"
         },
         {
             "abilities": [],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/yasha_and_kaya_icon.png",
+            "icon_path": "dota_deck_yasha_and_kaya_icon.png",
             "id": "yasha_and_kaya",
-            "infobox_path": "assets/items/yasha_and_kaya_infobox.png",
+            "infobox_path": "dota_deck_yasha_and_kaya_infobox.png",
             "name": "Yasha and Kaya",
             "wiki": "https://dota2.fandom.com/wiki/Yasha_and_Kaya"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/satanic_ability_1.png",
+                    "ability_image_path": "dota_deck_satanic_ability_1.png",
                     "ability_name": "Lifesteal"
                 },
                 {
-                    "ability_image_path": "assets/items/satanic_ability_2.png",
+                    "ability_image_path": "dota_deck_satanic_ability_2.png",
                     "ability_name": "Unholy Rage"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/satanic_icon.png",
+            "icon_path": "dota_deck_satanic_icon.png",
             "id": "satanic",
-            "infobox_path": "assets/items/satanic_infobox.png",
+            "infobox_path": "dota_deck_satanic_infobox.png",
             "name": "Satanic",
             "wiki": "https://dota2.fandom.com/wiki/Satanic"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/eye_of_skadi_ability_1.png",
+                    "ability_image_path": "dota_deck_eye_of_skadi_ability_1.png",
                     "ability_name": "Cold Attack"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/eye_of_skadi_icon.png",
+            "icon_path": "dota_deck_eye_of_skadi_icon.png",
             "id": "eye_of_skadi",
-            "infobox_path": "assets/items/eye_of_skadi_infobox.png",
+            "infobox_path": "dota_deck_eye_of_skadi_infobox.png",
             "name": "Eye of Skadi",
             "wiki": "https://dota2.fandom.com/wiki/Eye_of_Skadi"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mjollnir_ability_1.png",
+                    "ability_image_path": "dota_deck_mjollnir_ability_1.png",
                     "ability_name": "Static Charge"
                 },
                 {
-                    "ability_image_path": "assets/items/mjollnir_ability_2.png",
+                    "ability_image_path": "dota_deck_mjollnir_ability_2.png",
                     "ability_name": "Chain Lightning"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/mjollnir_icon.png",
+            "icon_path": "dota_deck_mjollnir_icon.png",
             "id": "mjollnir",
-            "infobox_path": "assets/items/mjollnir_infobox.png",
+            "infobox_path": "dota_deck_mjollnir_infobox.png",
             "name": "Mjollnir",
             "wiki": "https://dota2.fandom.com/wiki/Mjollnir"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/arcane_blink_ability_1.png",
+                    "ability_image_path": "dota_deck_arcane_blink_ability_1.png",
                     "ability_name": "Arcane Blink"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/arcane_blink_icon.png",
+            "icon_path": "dota_deck_arcane_blink_icon.png",
             "id": "arcane_blink",
-            "infobox_path": "assets/items/arcane_blink_infobox.png",
+            "infobox_path": "dota_deck_arcane_blink_infobox.png",
             "name": "Arcane Blink",
             "wiki": "https://dota2.fandom.com/wiki/Arcane_Blink"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/overwhelming_blink_ability_1.png",
+                    "ability_image_path": "dota_deck_overwhelming_blink_ability_1.png",
                     "ability_name": "Overwhelming Blink"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/overwhelming_blink_icon.png",
+            "icon_path": "dota_deck_overwhelming_blink_icon.png",
             "id": "overwhelming_blink",
-            "infobox_path": "assets/items/overwhelming_blink_infobox.png",
+            "infobox_path": "dota_deck_overwhelming_blink_infobox.png",
             "name": "Overwhelming Blink",
             "wiki": "https://dota2.fandom.com/wiki/Overwhelming_Blink"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/swift_blink_ability_1.png",
+                    "ability_image_path": "dota_deck_swift_blink_ability_1.png",
                     "ability_name": "Swift Blink"
                 }
             ],
             "category": "upgraded_artifacts",
-            "icon_path": "assets/items/swift_blink_icon.png",
+            "icon_path": "dota_deck_swift_blink_icon.png",
             "id": "swift_blink",
-            "infobox_path": "assets/items/swift_blink_infobox.png",
+            "infobox_path": "dota_deck_swift_blink_infobox.png",
             "name": "Swift Blink",
             "wiki": "https://dota2.fandom.com/wiki/Swift_Blink"
         }
@@ -2312,246 +2312,246 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/veil_of_discord_ability_1.png",
+                    "ability_image_path": "dota_deck_veil_of_discord_ability_1.png",
                     "ability_name": "Magic Weakness"
                 },
                 {
-                    "ability_image_path": "assets/items/veil_of_discord_ability_2.png",
+                    "ability_image_path": "dota_deck_veil_of_discord_ability_2.png",
                     "ability_name": "Basilius Aura"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/veil_of_discord_icon.png",
+            "icon_path": "dota_deck_veil_of_discord_icon.png",
             "id": "veil_of_discord",
-            "infobox_path": "assets/items/veil_of_discord_infobox.png",
+            "infobox_path": "dota_deck_veil_of_discord_infobox.png",
             "name": "Veil of Discord",
             "wiki": "https://dota2.fandom.com/wiki/Veil_of_Discord"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/glimmer_cape_ability_1.png",
+                    "ability_image_path": "dota_deck_glimmer_cape_ability_1.png",
                     "ability_name": "Glimmer"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/glimmer_cape_icon.png",
+            "icon_path": "dota_deck_glimmer_cape_icon.png",
             "id": "glimmer_cape",
-            "infobox_path": "assets/items/glimmer_cape_infobox.png",
+            "infobox_path": "dota_deck_glimmer_cape_infobox.png",
             "name": "Glimmer Cape",
             "wiki": "https://dota2.fandom.com/wiki/Glimmer_Cape"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/force_staff_ability_1.png",
+                    "ability_image_path": "dota_deck_force_staff_ability_1.png",
                     "ability_name": "Force"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/force_staff_icon.png",
+            "icon_path": "dota_deck_force_staff_icon.png",
             "id": "force_staff",
-            "infobox_path": "assets/items/force_staff_infobox.png",
+            "infobox_path": "dota_deck_force_staff_infobox.png",
             "name": "Force Staff",
             "wiki": "https://dota2.fandom.com/wiki/Force_Staff"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aether_lens_ability_1.png",
+                    "ability_image_path": "dota_deck_aether_lens_ability_1.png",
                     "ability_name": "Aethereal Focus"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/aether_lens_icon.png",
+            "icon_path": "dota_deck_aether_lens_icon.png",
             "id": "aether_lens",
-            "infobox_path": "assets/items/aether_lens_infobox.png",
+            "infobox_path": "dota_deck_aether_lens_infobox.png",
             "name": "Aether Lens",
             "wiki": "https://dota2.fandom.com/wiki/Aether_Lens"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/witch_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_witch_blade_ability_1.png",
                     "ability_name": "Witch Blade"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/witch_blade_icon.png",
+            "icon_path": "dota_deck_witch_blade_icon.png",
             "id": "witch_blade",
-            "infobox_path": "assets/items/witch_blade_infobox.png",
+            "infobox_path": "dota_deck_witch_blade_infobox.png",
             "name": "Witch Blade",
             "wiki": "https://dota2.fandom.com/wiki/Witch_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/solar_crest_ability_1.png",
+                    "ability_image_path": "dota_deck_solar_crest_ability_1.png",
                     "ability_name": "Shine"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/solar_crest_icon.png",
+            "icon_path": "dota_deck_solar_crest_icon.png",
             "id": "solar_crest",
-            "infobox_path": "assets/items/solar_crest_infobox.png",
+            "infobox_path": "dota_deck_solar_crest_infobox.png",
             "name": "Solar Crest",
             "wiki": "https://dota2.fandom.com/wiki/Solar_Crest"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/dagon_ability_1.png",
+                    "ability_image_path": "dota_deck_dagon_ability_1.png",
                     "ability_name": "Energy Burst"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/dagon_icon.png",
+            "icon_path": "dota_deck_dagon_icon.png",
             "id": "dagon",
-            "infobox_path": "assets/items/dagon_infobox.png",
+            "infobox_path": "dota_deck_dagon_infobox.png",
             "name": "Dagon",
             "wiki": "https://dota2.fandom.com/wiki/Dagon"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/euls_scepter_of_divinity_ability_1.png",
+                    "ability_image_path": "dota_deck_euls_scepter_of_divinity_ability_1.png",
                     "ability_name": "Cyclone"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/euls_scepter_of_divinity_icon.png",
+            "icon_path": "dota_deck_euls_scepter_of_divinity_icon.png",
             "id": "euls_scepter_of_divinity",
-            "infobox_path": "assets/items/euls_scepter_of_divinity_infobox.png",
+            "infobox_path": "dota_deck_euls_scepter_of_divinity_infobox.png",
             "name": "Euls Scepter of Divinity",
             "wiki": "https://dota2.fandom.com/wiki/Eul%27s_Scepter_of_Divinity"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/rod_of_atos_ability_1.png",
+                    "ability_image_path": "dota_deck_rod_of_atos_ability_1.png",
                     "ability_name": "Cripple"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/rod_of_atos_icon.png",
+            "icon_path": "dota_deck_rod_of_atos_icon.png",
             "id": "rod_of_atos",
-            "infobox_path": "assets/items/rod_of_atos_infobox.png",
+            "infobox_path": "dota_deck_rod_of_atos_infobox.png",
             "name": "Rod of Atos",
             "wiki": "https://dota2.fandom.com/wiki/Rod_of_Atos"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/orchid_malevolence_ability_1.png",
+                    "ability_image_path": "dota_deck_orchid_malevolence_ability_1.png",
                     "ability_name": "Soul Burn"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/orchid_malevolence_icon.png",
+            "icon_path": "dota_deck_orchid_malevolence_icon.png",
             "id": "orchid_malevolence",
-            "infobox_path": "assets/items/orchid_malevolence_infobox.png",
+            "infobox_path": "dota_deck_orchid_malevolence_infobox.png",
             "name": "Orchid Malevolence",
             "wiki": "https://dota2.fandom.com/wiki/Orchid_Malevolence"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aghanims_scepter_ability_1.png",
+                    "ability_image_path": "dota_deck_aghanims_scepter_ability_1.png",
                     "ability_name": "Ability Upgrade"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/aghanims_scepter_icon.png",
+            "icon_path": "dota_deck_aghanims_scepter_icon.png",
             "id": "aghanims_scepter",
-            "infobox_path": "assets/items/aghanims_scepter_infobox.png",
+            "infobox_path": "dota_deck_aghanims_scepter_infobox.png",
             "name": "Aghanims Scepter",
             "wiki": "https://dota2.fandom.com/wiki/Aghanim%27s_Scepter"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/refresher_orb_ability_1.png",
+                    "ability_image_path": "dota_deck_refresher_orb_ability_1.png",
                     "ability_name": "Reset Cooldowns"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/refresher_orb_icon.png",
+            "icon_path": "dota_deck_refresher_orb_icon.png",
             "id": "refresher_orb",
-            "infobox_path": "assets/items/refresher_orb_infobox.png",
+            "infobox_path": "dota_deck_refresher_orb_infobox.png",
             "name": "Refresher Orb",
             "wiki": "https://dota2.fandom.com/wiki/Refresher_Orb"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/octarine_core_ability_1.png",
+                    "ability_image_path": "dota_deck_octarine_core_ability_1.png",
                     "ability_name": "Cooldown Reduction"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/octarine_core_icon.png",
+            "icon_path": "dota_deck_octarine_core_icon.png",
             "id": "octarine_core",
-            "infobox_path": "assets/items/octarine_core_infobox.png",
+            "infobox_path": "dota_deck_octarine_core_infobox.png",
             "name": "Octarine Core",
             "wiki": "https://dota2.fandom.com/wiki/Octarine_Core"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/scythe_of_vyse_ability_1.png",
+                    "ability_image_path": "dota_deck_scythe_of_vyse_ability_1.png",
                     "ability_name": "Hex"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/scythe_of_vyse_icon.png",
+            "icon_path": "dota_deck_scythe_of_vyse_icon.png",
             "id": "scythe_of_vyse",
-            "infobox_path": "assets/items/scythe_of_vyse_infobox.png",
+            "infobox_path": "dota_deck_scythe_of_vyse_infobox.png",
             "name": "Scythe of Vyse",
             "wiki": "https://dota2.fandom.com/wiki/Scythe_of_Vyse"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/aghanims_blessing_ability_1.png",
+                    "ability_image_path": "dota_deck_aghanims_blessing_ability_1.png",
                     "ability_name": "Ability Upgrade"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/aghanims_blessing_icon.png",
+            "icon_path": "dota_deck_aghanims_blessing_icon.png",
             "id": "aghanims_blessing",
-            "infobox_path": "assets/items/aghanims_blessing_infobox.png",
+            "infobox_path": "dota_deck_aghanims_blessing_infobox.png",
             "name": "Aghanims Blessing",
             "wiki": "https://dota2.fandom.com/wiki/Aghanim%27s_Blessing"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/gleipnir_ability_1.png",
+                    "ability_image_path": "dota_deck_gleipnir_ability_1.png",
                     "ability_name": "Eternal Chains"
                 },
                 {
-                    "ability_image_path": "assets/items/gleipnir_ability_2.png",
+                    "ability_image_path": "dota_deck_gleipnir_ability_2.png",
                     "ability_name": "Chain Lightning"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/gleipnir_icon.png",
+            "icon_path": "dota_deck_gleipnir_icon.png",
             "id": "gleipnir",
-            "infobox_path": "assets/items/gleipnir_infobox.png",
+            "infobox_path": "dota_deck_gleipnir_infobox.png",
             "name": "Gleipnir",
             "wiki": "https://dota2.fandom.com/wiki/Gleipnir"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/wind_waker_ability_1.png",
+                    "ability_image_path": "dota_deck_wind_waker_ability_1.png",
                     "ability_name": "Cyclone"
                 }
             ],
             "category": "upgraded_magical",
-            "icon_path": "assets/items/wind_waker_icon.png",
+            "icon_path": "dota_deck_wind_waker_icon.png",
             "id": "wind_waker",
-            "infobox_path": "assets/items/wind_waker_infobox.png",
+            "infobox_path": "dota_deck_wind_waker_infobox.png",
             "name": "Wind Waker",
             "wiki": "https://dota2.fandom.com/wiki/Wind_Waker"
         }
@@ -2560,220 +2560,220 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/buckler_ability_1.png",
+                    "ability_image_path": "dota_deck_buckler_ability_1.png",
                     "ability_name": "Buckler Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/buckler_icon.png",
+            "icon_path": "dota_deck_buckler_icon.png",
             "id": "buckler",
-            "infobox_path": "assets/items/buckler_infobox.png",
+            "infobox_path": "dota_deck_buckler_infobox.png",
             "name": "Buckler",
             "wiki": "https://dota2.fandom.com/wiki/Buckler"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/headdress_ability_1.png",
+                    "ability_image_path": "dota_deck_headdress_ability_1.png",
                     "ability_name": "Regeneration Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/headdress_icon.png",
+            "icon_path": "dota_deck_headdress_icon.png",
             "id": "headdress",
-            "infobox_path": "assets/items/headdress_infobox.png",
+            "infobox_path": "dota_deck_headdress_infobox.png",
             "name": "Headdress",
             "wiki": "https://dota2.fandom.com/wiki/Headdress"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ring_of_basilius_ability_1.png",
+                    "ability_image_path": "dota_deck_ring_of_basilius_ability_1.png",
                     "ability_name": "Basilius Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/ring_of_basilius_icon.png",
+            "icon_path": "dota_deck_ring_of_basilius_icon.png",
             "id": "ring_of_basilius",
-            "infobox_path": "assets/items/ring_of_basilius_infobox.png",
+            "infobox_path": "dota_deck_ring_of_basilius_infobox.png",
             "name": "Ring of Basilius",
             "wiki": "https://dota2.fandom.com/wiki/Ring_of_Basilius"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/urn_of_shadows_ability_1.png",
+                    "ability_image_path": "dota_deck_urn_of_shadows_ability_1.png",
                     "ability_name": "Soul Release"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/urn_of_shadows_icon.png",
+            "icon_path": "dota_deck_urn_of_shadows_icon.png",
             "id": "urn_of_shadows",
-            "infobox_path": "assets/items/urn_of_shadows_infobox.png",
+            "infobox_path": "dota_deck_urn_of_shadows_infobox.png",
             "name": "Urn of Shadows",
             "wiki": "https://dota2.fandom.com/wiki/Urn_of_Shadows"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/tranquil_boots_ability_1.png",
+                    "ability_image_path": "dota_deck_tranquil_boots_ability_1.png",
                     "ability_name": "Break"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/tranquil_boots_icon.png",
+            "icon_path": "dota_deck_tranquil_boots_icon.png",
             "id": "tranquil_boots",
-            "infobox_path": "assets/items/tranquil_boots_infobox.png",
+            "infobox_path": "dota_deck_tranquil_boots_infobox.png",
             "name": "Tranquil Boots",
             "wiki": "https://dota2.fandom.com/wiki/Tranquil_Boots"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/medallion_of_courage_ability_1.png",
+                    "ability_image_path": "dota_deck_medallion_of_courage_ability_1.png",
                     "ability_name": "Valor"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/medallion_of_courage_icon.png",
+            "icon_path": "dota_deck_medallion_of_courage_icon.png",
             "id": "medallion_of_courage",
-            "infobox_path": "assets/items/medallion_of_courage_infobox.png",
+            "infobox_path": "dota_deck_medallion_of_courage_infobox.png",
             "name": "Medallion of Courage",
             "wiki": "https://dota2.fandom.com/wiki/Medallion_of_Courage"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/arcane_boots_ability_1.png",
+                    "ability_image_path": "dota_deck_arcane_boots_ability_1.png",
                     "ability_name": "Replenish Mana"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/arcane_boots_icon.png",
+            "icon_path": "dota_deck_arcane_boots_icon.png",
             "id": "arcane_boots",
-            "infobox_path": "assets/items/arcane_boots_infobox.png",
+            "infobox_path": "dota_deck_arcane_boots_infobox.png",
             "name": "Arcane Boots",
             "wiki": "https://dota2.fandom.com/wiki/Arcane_Boots"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/drum_of_endurance_ability_1.png",
+                    "ability_image_path": "dota_deck_drum_of_endurance_ability_1.png",
                     "ability_name": "Endurance"
                 },
                 {
-                    "ability_image_path": "assets/items/drum_of_endurance_ability_2.png",
+                    "ability_image_path": "dota_deck_drum_of_endurance_ability_2.png",
                     "ability_name": "Swiftness Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/drum_of_endurance_icon.png",
+            "icon_path": "dota_deck_drum_of_endurance_icon.png",
             "id": "drum_of_endurance",
-            "infobox_path": "assets/items/drum_of_endurance_infobox.png",
+            "infobox_path": "dota_deck_drum_of_endurance_infobox.png",
             "name": "Drum of Endurance",
             "wiki": "https://dota2.fandom.com/wiki/Drum_of_Endurance"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/mekansm_ability_1.png",
+                    "ability_image_path": "dota_deck_mekansm_ability_1.png",
                     "ability_name": "Restore"
                 },
                 {
-                    "ability_image_path": "assets/items/mekansm_ability_2.png",
+                    "ability_image_path": "dota_deck_mekansm_ability_2.png",
                     "ability_name": "Mekansm Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/mekansm_icon.png",
+            "icon_path": "dota_deck_mekansm_icon.png",
             "id": "mekansm",
-            "infobox_path": "assets/items/mekansm_infobox.png",
+            "infobox_path": "dota_deck_mekansm_infobox.png",
             "name": "Mekansm",
             "wiki": "https://dota2.fandom.com/wiki/Mekansm"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/holy_locket_ability_1.png",
+                    "ability_image_path": "dota_deck_holy_locket_ability_1.png",
                     "ability_name": "Energy Charge"
                 },
                 {
-                    "ability_image_path": "assets/items/holy_locket_ability_2.png",
+                    "ability_image_path": "dota_deck_holy_locket_ability_2.png",
                     "ability_name": "Holy Blessing"
                 },
                 {
-                    "ability_image_path": "assets/items/holy_locket_ability_3.png",
+                    "ability_image_path": "dota_deck_holy_locket_ability_3.png",
                     "ability_name": "Regeneration Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/holy_locket_icon.png",
+            "icon_path": "dota_deck_holy_locket_icon.png",
             "id": "holy_locket",
-            "infobox_path": "assets/items/holy_locket_infobox.png",
+            "infobox_path": "dota_deck_holy_locket_infobox.png",
             "name": "Holy Locket",
             "wiki": "https://dota2.fandom.com/wiki/Holy_Locket"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/vladmirs_offering_ability_1.png",
+                    "ability_image_path": "dota_deck_vladmirs_offering_ability_1.png",
                     "ability_name": "Vladmir's Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/vladmirs_offering_icon.png",
+            "icon_path": "dota_deck_vladmirs_offering_icon.png",
             "id": "vladmirs_offering",
-            "infobox_path": "assets/items/vladmirs_offering_infobox.png",
+            "infobox_path": "dota_deck_vladmirs_offering_infobox.png",
             "name": "Vladmirs Offering",
             "wiki": "https://dota2.fandom.com/wiki/Vladmir%27s_Offering"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/spirit_vessel_ability_1.png",
+                    "ability_image_path": "dota_deck_spirit_vessel_ability_1.png",
                     "ability_name": "Soul Release"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/spirit_vessel_icon.png",
+            "icon_path": "dota_deck_spirit_vessel_icon.png",
             "id": "spirit_vessel",
-            "infobox_path": "assets/items/spirit_vessel_infobox.png",
+            "infobox_path": "dota_deck_spirit_vessel_infobox.png",
             "name": "Spirit Vessel",
             "wiki": "https://dota2.fandom.com/wiki/Spirit_Vessel"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/pipe_of_insight_ability_1.png",
+                    "ability_image_path": "dota_deck_pipe_of_insight_ability_1.png",
                     "ability_name": "Barrier"
                 },
                 {
-                    "ability_image_path": "assets/items/pipe_of_insight_ability_2.png",
+                    "ability_image_path": "dota_deck_pipe_of_insight_ability_2.png",
                     "ability_name": "Insight Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/pipe_of_insight_icon.png",
+            "icon_path": "dota_deck_pipe_of_insight_icon.png",
             "id": "pipe_of_insight",
-            "infobox_path": "assets/items/pipe_of_insight_infobox.png",
+            "infobox_path": "dota_deck_pipe_of_insight_infobox.png",
             "name": "Pipe of Insight",
             "wiki": "https://dota2.fandom.com/wiki/Pipe_of_Insight"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/guardian_greaves_ability_1.png",
+                    "ability_image_path": "dota_deck_guardian_greaves_ability_1.png",
                     "ability_name": "Mend"
                 },
                 {
-                    "ability_image_path": "assets/items/guardian_greaves_ability_2.png",
+                    "ability_image_path": "dota_deck_guardian_greaves_ability_2.png",
                     "ability_name": "Guardian Aura"
                 }
             ],
             "category": "upgraded_support",
-            "icon_path": "assets/items/guardian_greaves_icon.png",
+            "icon_path": "dota_deck_guardian_greaves_icon.png",
             "id": "guardian_greaves",
-            "infobox_path": "assets/items/guardian_greaves_infobox.png",
+            "infobox_path": "dota_deck_guardian_greaves_infobox.png",
             "name": "Guardian Greaves",
             "wiki": "https://dota2.fandom.com/wiki/Guardian_Greaves"
         }
@@ -2782,248 +2782,248 @@
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/crystalys_ability_1.png",
+                    "ability_image_path": "dota_deck_crystalys_ability_1.png",
                     "ability_name": "Critical Strike"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/crystalys_icon.png",
+            "icon_path": "dota_deck_crystalys_icon.png",
             "id": "crystalys",
-            "infobox_path": "assets/items/crystalys_infobox.png",
+            "infobox_path": "dota_deck_crystalys_infobox.png",
             "name": "Crystalys",
             "wiki": "https://dota2.fandom.com/wiki/Crystalys"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/meteor_hammer_ability_1.png",
+                    "ability_image_path": "dota_deck_meteor_hammer_ability_1.png",
                     "ability_name": "Meteor Hammer"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/meteor_hammer_icon.png",
+            "icon_path": "dota_deck_meteor_hammer_icon.png",
             "id": "meteor_hammer",
-            "infobox_path": "assets/items/meteor_hammer_infobox.png",
+            "infobox_path": "dota_deck_meteor_hammer_infobox.png",
             "name": "Meteor Hammer",
             "wiki": "https://dota2.fandom.com/wiki/Meteor_Hammer"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/armlet_of_mordiggian_ability_1.png",
+                    "ability_image_path": "dota_deck_armlet_of_mordiggian_ability_1.png",
                     "ability_name": "Unholy Strength"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/armlet_of_mordiggian_icon.png",
+            "icon_path": "dota_deck_armlet_of_mordiggian_icon.png",
             "id": "armlet_of_mordiggian",
-            "infobox_path": "assets/items/armlet_of_mordiggian_infobox.png",
+            "infobox_path": "dota_deck_armlet_of_mordiggian_infobox.png",
             "name": "Armlet of Mordiggian",
             "wiki": "https://dota2.fandom.com/wiki/Armlet_of_Mordiggian"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/skull_basher_ability_1.png",
+                    "ability_image_path": "dota_deck_skull_basher_ability_1.png",
                     "ability_name": "Bash"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/skull_basher_icon.png",
+            "icon_path": "dota_deck_skull_basher_icon.png",
             "id": "skull_basher",
-            "infobox_path": "assets/items/skull_basher_infobox.png",
+            "infobox_path": "dota_deck_skull_basher_infobox.png",
             "name": "Skull Basher",
             "wiki": "https://dota2.fandom.com/wiki/Skull_Basher"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/shadow_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_shadow_blade_ability_1.png",
                     "ability_name": "Shadow Walk"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/shadow_blade_icon.png",
+            "icon_path": "dota_deck_shadow_blade_icon.png",
             "id": "shadow_blade",
-            "infobox_path": "assets/items/shadow_blade_infobox.png",
+            "infobox_path": "dota_deck_shadow_blade_infobox.png",
             "name": "Shadow Blade",
             "wiki": "https://dota2.fandom.com/wiki/Shadow_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/desolator_ability_1.png",
+                    "ability_image_path": "dota_deck_desolator_ability_1.png",
                     "ability_name": "Corruption"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/desolator_icon.png",
+            "icon_path": "dota_deck_desolator_icon.png",
             "id": "desolator",
-            "infobox_path": "assets/items/desolator_infobox.png",
+            "infobox_path": "dota_deck_desolator_infobox.png",
             "name": "Desolator",
             "wiki": "https://dota2.fandom.com/wiki/Desolator"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/battle_fury_ability_1.png",
+                    "ability_image_path": "dota_deck_battle_fury_ability_1.png",
                     "ability_name": "Chop Tree"
                 },
                 {
-                    "ability_image_path": "assets/items/battle_fury_ability_2.png",
+                    "ability_image_path": "dota_deck_battle_fury_ability_2.png",
                     "ability_name": "Quell"
                 },
                 {
-                    "ability_image_path": "assets/items/battle_fury_ability_3.png",
+                    "ability_image_path": "dota_deck_battle_fury_ability_3.png",
                     "ability_name": "Cleave"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/battle_fury_icon.png",
+            "icon_path": "dota_deck_battle_fury_icon.png",
             "id": "battle_fury",
-            "infobox_path": "assets/items/battle_fury_infobox.png",
+            "infobox_path": "dota_deck_battle_fury_infobox.png",
             "name": "Battle Fury",
             "wiki": "https://dota2.fandom.com/wiki/Battle_Fury"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/ethereal_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_ethereal_blade_ability_1.png",
                     "ability_name": "Ether Blast"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/ethereal_blade_icon.png",
+            "icon_path": "dota_deck_ethereal_blade_icon.png",
             "id": "ethereal_blade",
-            "infobox_path": "assets/items/ethereal_blade_infobox.png",
+            "infobox_path": "dota_deck_ethereal_blade_infobox.png",
             "name": "Ethereal Blade",
             "wiki": "https://dota2.fandom.com/wiki/Ethereal_Blade"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/nullifier_ability_1.png",
+                    "ability_image_path": "dota_deck_nullifier_ability_1.png",
                     "ability_name": "Nullify"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/nullifier_icon.png",
+            "icon_path": "dota_deck_nullifier_icon.png",
             "id": "nullifier",
-            "infobox_path": "assets/items/nullifier_infobox.png",
+            "infobox_path": "dota_deck_nullifier_infobox.png",
             "name": "Nullifier",
             "wiki": "https://dota2.fandom.com/wiki/Nullifier"
         },
         {
             "abilities": [],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/butterfly_icon.png",
+            "icon_path": "dota_deck_butterfly_icon.png",
             "id": "butterfly",
-            "infobox_path": "assets/items/butterfly_infobox.png",
+            "infobox_path": "dota_deck_butterfly_infobox.png",
             "name": "Butterfly",
             "wiki": "https://dota2.fandom.com/wiki/Butterfly"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/monkey_king_bar_ability_1.png",
+                    "ability_image_path": "dota_deck_monkey_king_bar_ability_1.png",
                     "ability_name": "Pierce"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/monkey_king_bar_icon.png",
+            "icon_path": "dota_deck_monkey_king_bar_icon.png",
             "id": "monkey_king_bar",
-            "infobox_path": "assets/items/monkey_king_bar_infobox.png",
+            "infobox_path": "dota_deck_monkey_king_bar_infobox.png",
             "name": "Monkey King Bar",
             "wiki": "https://dota2.fandom.com/wiki/Monkey_King_Bar"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/daedalus_ability_1.png",
+                    "ability_image_path": "dota_deck_daedalus_ability_1.png",
                     "ability_name": "Critical Strike"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/daedalus_icon.png",
+            "icon_path": "dota_deck_daedalus_icon.png",
             "id": "daedalus",
-            "infobox_path": "assets/items/daedalus_infobox.png",
+            "infobox_path": "dota_deck_daedalus_infobox.png",
             "name": "Daedalus",
             "wiki": "https://dota2.fandom.com/wiki/Daedalus"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/radiance_ability_1.png",
+                    "ability_image_path": "dota_deck_radiance_ability_1.png",
                     "ability_name": "Burn"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/radiance_icon.png",
+            "icon_path": "dota_deck_radiance_icon.png",
             "id": "radiance",
-            "infobox_path": "assets/items/radiance_infobox.png",
+            "infobox_path": "dota_deck_radiance_infobox.png",
             "name": "Radiance",
             "wiki": "https://dota2.fandom.com/wiki/Radiance"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/silver_edge_ability_1.png",
+                    "ability_image_path": "dota_deck_silver_edge_ability_1.png",
                     "ability_name": "Shadow Walk"
                 },
                 {
-                    "ability_image_path": "assets/items/silver_edge_ability_2.png",
+                    "ability_image_path": "dota_deck_silver_edge_ability_2.png",
                     "ability_name": "Critical Strike"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/silver_edge_icon.png",
+            "icon_path": "dota_deck_silver_edge_icon.png",
             "id": "silver_edge",
-            "infobox_path": "assets/items/silver_edge_infobox.png",
+            "infobox_path": "dota_deck_silver_edge_infobox.png",
             "name": "Silver Edge",
             "wiki": "https://dota2.fandom.com/wiki/Silver_Edge"
         },
         {
             "abilities": [],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/divine_rapier_icon.png",
+            "icon_path": "dota_deck_divine_rapier_icon.png",
             "id": "divine_rapier",
-            "infobox_path": "assets/items/divine_rapier_infobox.png",
+            "infobox_path": "dota_deck_divine_rapier_infobox.png",
             "name": "Divine Rapier",
             "wiki": "https://dota2.fandom.com/wiki/Divine_Rapier"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/bloodthorn_ability_1.png",
+                    "ability_image_path": "dota_deck_bloodthorn_ability_1.png",
                     "ability_name": "Soul Rend"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/bloodthorn_icon.png",
+            "icon_path": "dota_deck_bloodthorn_icon.png",
             "id": "bloodthorn",
-            "infobox_path": "assets/items/bloodthorn_infobox.png",
+            "infobox_path": "dota_deck_bloodthorn_infobox.png",
             "name": "Bloodthorn",
             "wiki": "https://dota2.fandom.com/wiki/Bloodthorn"
         },
         {
             "abilities": [
                 {
-                    "ability_image_path": "assets/items/abyssal_blade_ability_1.png",
+                    "ability_image_path": "dota_deck_abyssal_blade_ability_1.png",
                     "ability_name": "Overwhelm"
                 },
                 {
-                    "ability_image_path": "assets/items/abyssal_blade_ability_2.png",
+                    "ability_image_path": "dota_deck_abyssal_blade_ability_2.png",
                     "ability_name": "Bash"
                 },
                 {
-                    "ability_image_path": "assets/items/abyssal_blade_ability_3.png",
+                    "ability_image_path": "dota_deck_abyssal_blade_ability_3.png",
                     "ability_name": "Damage Block"
                 }
             ],
             "category": "upgraded_weapons",
-            "icon_path": "assets/items/abyssal_blade_icon.png",
+            "icon_path": "dota_deck_abyssal_blade_icon.png",
             "id": "abyssal_blade",
-            "infobox_path": "assets/items/abyssal_blade_infobox.png",
+            "infobox_path": "dota_deck_abyssal_blade_infobox.png",
             "name": "Abyssal Blade",
             "wiki": "https://dota2.fandom.com/wiki/Abyssal_Blade"
         }
