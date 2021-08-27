@@ -12,6 +12,6 @@ In an effort to keep the deck from becoming overwhelming, I made a heavy use of 
 * ~~Implement item data scraping~~
 * Implement hero data scraping
 * Implement item card and deck generation
-* Implement hero card and deck generation
-* Release the first deck.
+* ~~Implement hero card and deck generation~~
+* Release the first complete deck.
 
