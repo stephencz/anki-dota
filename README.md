@@ -2,8 +2,7 @@
 A programmatically generated Anki flashcard decks for Dota 2 items and heroes. 
 
 ## How to Use
-To use the deck, it is advisable to simply download the latest release and import it into Anki. Compiling a deck for yourself is time consuming, unenjoyable, and
-generally not worth the effort. 
+To use the deck, it is advisable to simply download the latest release and import it into Anki. Compiling a deck for yourself is time consuming and unenjoyable.
 
 ## Compiling your own deck
 
@@ -28,3 +27,8 @@ csv files into a single, coherent deck of cards, also takes some time. Therefore
 as the use of the deck is more in gaining a general understanding of the game's items and heroes. Small changes to values generally won't matter if you understand the
 gist of what an item or hero does.
 
+## Screenshots
+
+### Item Cards (Front/Back)
+![Alt text](/screenshot/item_front.png?raw=true)
+![Alt text](/screenshot/item_back.png?raw=true )
