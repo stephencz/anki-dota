@@ -30,9 +30,4 @@ gist of what an item or hero does.
 ## Screenshots
 
 ### Item Cards
-
-#### Front
-![Alt text](/screenshot/item_front.png?raw=true)
-
-#### Back
 ![Alt text](/screenshot/item_back.png?raw=true )
