@@ -52,8 +52,18 @@ class Wiki:
 
         return urls
 
-    def get_hero_categories(self):
-        pass
+    def get_hero_categories(self, soup, category):
+        temp = []
+
+        item_list = soup.find('span', {'id': category }).parent.find_next_sibling('div')
+        items = item_list.findChildren('div')
+        for item in items:
+            link = item.find('a')
+            temp.append(link['href'])
+
+        return temp
+
+
 
     """
     Retrieves wiki urls for all items that are currently implemented and
