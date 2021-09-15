@@ -1,6 +1,10 @@
 # anki-dota
 A programmatically generated Anki flashcard decks for Dota 2 items and heroes. 
 
+## Notice
+
+I've decided that I don't really like Dota 2 or MOBAs in general, so I'm not updating this. As of writing, it still can make decks for all the in-game items, however I won't be adding in Hero deck or updating it when it breaks. Feel free to use it for the basis of your own project. 
+
 ## How to Use
 To use the deck, it is advisable to simply download the latest release and import it into Anki. Compiling a deck for yourself is time consuming and unenjoyable.
 
